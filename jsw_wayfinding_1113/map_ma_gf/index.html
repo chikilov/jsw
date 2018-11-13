@@ -1,0 +1,271 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>JEJU SHINHQA WORLD</title>
+        <meta name="description" content="제주신화월드">
+        <link rel="stylesheet" href="./css/reset_wf.css">
+        <link rel="stylesheet" href="./css/common_wf.css">
+        <!--[if lt IE 9]>
+        <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        <style>
+            .temp,
+            .temp a {font-size:16px; color:#000;}
+            #startPin polygon {fill: url(#SVGID_1_);}
+        </style>
+	</head>
+	<body>
+    <!-- wrap -->
+    <div class="wrap" id="wrap">
+        <!-- header -->
+        <header class="header" id="header">
+            <h1><a href="#"><img src="./images/logo.png" alt="JEJU SHINHQA WORLD"></a></h1>
+            <div class="location_state">
+                <p class="state_info current">현재위치</p>
+                <p class="state_info building">메리어트 리조트관</p>
+                <p class="state_info detail"><span class="floor">G층</span> <span class="street">쇼핑스트리트</span> 앞</p>
+            </div>
+        </header>
+        <!--// header -->
+         <!-- nav -->
+         <nav>
+            <ul class="nav_list depth_01" id="navList">
+              <li class="active" id="nav_map">
+                <p class="nav_list_tit"><a href="#">지도검색</a></p>
+                    <ul class="depth_02">
+                        <li><a href="#" id="floorGfLd" name="lobbyLdGf">랜딩관</a></li>
+                        <li class="active"><a href="#" id="floorGfMa" name="lobbyMaGf">메리어트관</a></li>
+                        <li><a href="#" id="floorShF100" name="lobbysh1f">신화관</a></li>
+                        <li><a href="#" id="floorGfSms">서머셋</a></li>
+                        <li><a href="#none" class="disabled">포시즌</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <p class="nav_list_tit"><a href="#">호텔 & 리조트</a></p>
+                    <ul class="depth_02">
+                        <li><a href="#" name="magf113">01</a></li>
+                        <li><a href="#" name="sh1f101">02</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <p class="nav_list_tit"><a href="#">즐길거리</a></p>
+                    <ul class="depth_02">
+                        <li><a href="#">01</a></li>
+                        <li><a href="#">02</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <p class="nav_list_tit"><a href="#">레스토랑 & 바</a></p>
+                    <ul class="depth_02">
+                        <li><a href="#">01</a></li>
+                        <li><a href="#">02</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <p class="nav_list_tit"><a href="#">쇼핑</a></p>
+                    <ul class="depth_02">
+                        <li><a href="#">01</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <p class="nav_list_tit"><a href="#">카지노</a></p>
+                    <ul class="depth_02">
+                        <li><a href="#">01</a></li>
+                    </ul>
+                </li>   
+            </ul>
+        </nav>
+        <!--// nav -->
+        <!-- section SVG MAP-->
+        <section class="contents">        
+            <div class="con">
+                <div id="myMaps"></div>
+                <div class="linkMenu">
+                    <ol>
+                         <li class="map_area">
+                            <span>랜딩관</span>
+                            <ul>
+                                <li><button id="floorLGFLd">LGF</button></li>
+                                <li><button id="floorGfLd" name="lobbyLdGf">GF</button></li>
+                                <li><button id="floorMaF101">F1</button></li>
+                            </ul>
+                        </li>
+                        <li class="map_area">
+                            <span>메리어트관</span>
+                            <ul>
+                                <li><button id="floorLGFMa" name="lobbyMalgf">LGF</button></li>
+                                <li><button id="floorGfMa" name="lobbyMaGf">GF</button></li>
+                                <li><button id="floorMaF100" name="lobbyma1f">F1</button></li>
+                                <li><button id="floorMaF5" name="lobbyma1f">F5</button></li>
+                            </ul>
+                        </li>
+                        <li class="map_area">
+                            <span>신화관</span>
+                            <ul>
+                                <li><button id="floorShF100" name="lobbysh1f">F1-1</button></li>
+                                <li><button id="floorShF101">F1-2</button></li>
+                            </ul>
+                        </li>
+                        <li class="map_area">
+                            <span>써머셋</span>
+                            <ul>
+                                <li><button id="floorGfSms">GF</button></li>
+                                <li><button id="floorSmsF1" name="lobbySms">F1</button></li>
+                                <li><button id="floorSmsF3">F3</button></li>
+                            </ul>
+                        </li>
+                    </ol> 
+                </div>
+                <div class="quickMenu quickIcon">
+                    <a href="#" class="q_ico toilet" data-name="toilet"><img src="./images/2x/toilet_off@2x.png" alt="화장실"></a>
+                    <a href="#" class="q_ico elevator" data-name="elevator"><img src="./images/2x/elevator_off@2x.png" alt="엘레베이터"/></a>
+                    <a href="#" class="q_ico escal" data-name="escal"><img src="./images/2x/escal_off@2x.png" alt=">에스컬레이터"></a>
+                    <!-- <span class="q_ico exit" data-name="toilet"><img src="./images/2x/toilet_off@2x.png" alt="비상구"></span> -->
+                    <a href="#" class="q_ico parking" data-name="parking"><img src="./images/2x/parking_off@2x.png" alt="주차장"></a>
+                    <a href="#" class="q_ico atm" data-name="atm"><img src="./images/2x/atm_off@2x.png" alt="atm"></a>
+                    <a href="#" class="q_ico hospi" data-name="hospi"><img src="./images/2x/hospi_off@2x.png" alt="병원"></a>
+                    <a href="#" class="q_ico nursing" data-name="nursing"><img src="./images/2x/nursing_off@2x.png" alt="수유실"></a>
+                    <a href="#" class="q_ico pham" data-name="pham"><img src="./images/2x/pham_off@2x.png" alt="약국"></a>
+                    <a href="#" class="q_ico stairs" data-name="stairs"><img src="./images/2x/stairs_off@2x.png" alt="계단"></a>
+                </div>
+                <!-- controls -->
+                <div id="controls" style="display:none; top:0">
+                    <h3>테스트용 컨트롤러</h3>
+                    <label for="beginSelect">시작점 로비 선택 (Begin Route at)</label>
+                    <select id="beginSelect">
+                        <option value="lobbyMaGf">lobby Ma Gf</option>
+                        <option value="lobbyLdGf">lobby Ld Gf</option>
+                        <option value="lobbysh1f">신화관1층</option>
+                    </select>
+                    <label for="endSelect">도착지점 선택 Show Route to</label>
+                    <select id="endSelect">
+                        <option>선택</option>
+                        <option value="lobbyMaGf">lobby Magf</option>
+                        <option value="lobbyLdGf">lobby ldgf</option>
+                        <option value="lobbySms">lobby Sms</option>
+                        <option value="ldgf112">ldgf112</option>
+                        <option value="ygrp108">ygrp108</option>
+                        <option value="jswpark01">jswpark01</option>
+                    </select> 
+                    <div class="quickMenu">
+                        <span class="restroom">화장실</span>
+                        <span class="elev">엘레베이터</span>
+                        <span class="esc">에스컬레이터</span>
+                        <span class="hsp">약국</span>
+                    </div>
+                    <p class="temp">
+                        <a href="#" onclick="javascript:$('#Paths line').attr('stroke-opacity', 1);">경로표시  /                      
+                        <a href="#" onclick="javascript:$('#Paths line').attr('stroke-opacity', 0);">경로 숨김</a><br>
+                        <a href="#" onclick="javascript:$('#Portals line').attr('stroke-opacity', 1);">포털표시 /</a>
+                        <a href="#" onclick="javascript:$('#Portals line').attr('stroke-opacity', 0);">포털숨김</a><br>
+                        <a href="#" onclick="javascript:$('#Doors line').attr('stroke-opacity', 1);">문표시 /</a>
+                        <a href="#" onclick="javascript:$('#Doors line').attr('stroke-opacity', 0);">문숨김</a>
+                    </p>
+                </div>
+                <!--// controls -->
+            </div>
+        </section>
+        
+        
+        <!-- 임시로 레이어팝업 버튼 생성, 해당 내용 확인후 삭제 바람 -->
+        <button class="progressBtn" onclick="moveProgress('jsw_pop_elev_1f_3f');">progress layer</button>
+        <!--// section SVG MAP-->
+     
+        <!-- 검색, 언어선택 -->
+        <aside class="setting_area">
+            <button class="seaerch_btn">검색하기</button>
+            <div class="lang">
+                <a href="#" class="on">한글</a>
+                <a href="#">ENGLISH</a>
+                <a href="#">중국어</a>
+            </div>
+        </aside>
+        <!--// 검색, 언어선택 -->    
+        <!-- 현재시간 -->
+        <div class="time_area">
+            <div id="divClock" class="clock"></div>
+            <p id="theDate" class="date"></p>
+            <p id="crtTime"></p>
+        </div>
+        <!--// 현재시간 -->    
+    </div>		
+        <!-- util JS -->
+        <!-- <script src="src/scale.fix.js"></script> -->
+        <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+        <script src="./src/panzoom.js"></script>
+        <script src="./src/jquery.wayfinding.js"></script>
+        <script src="./src/common_wf.js"></script>
+        <!--// util JS -->
+		<script>
+			$(document).ready(function () {
+                'use strict';
+
+
+                function showClock(){
+                    var currentDate = new Date();
+                    var divClock = document.getElementById("divClock");
+                    var divTime = document.getElementById("crtTime");
+                    var crtM = "0"+ currentDate.getMinutes();
+                    crtM = crtM.substring(crtM.length - 2);
+                    var msg = currentDate.getHours()+":";
+                    msg += crtM;
+                    divTime.innerText = msg;
+                    setTimeout(showClock,1000);
+                }
+                function dateCrt (){
+                    var currentDateF = new Date();
+                    var day = currentDateF.getDate();
+                    var month = currentDateF.getMonth() + 1;
+                    var year = currentDateF.getFullYear();
+                    if (month < 10) month = "0" + month;
+                    if (day < 10) day = "0" + day;
+                    var today = year + "년" + month + "월" + day + "일";       
+                    document.getElementById("theDate").innerText = today;
+                  showClock();
+                }
+                dateCrt();
+
+				$('#myMaps').wayfinding({
+					'maps': [
+                        {'path': 'map/181030_Ma_GF_wayfinding_KOR.svg', 'id': 'floorGfMa', 'title': '메리어트관 GF'}, // GF 메리어트관 
+                        {'path': 'map/181030_Rd_GF_wayfinding_KOR.svg', 'id': 'floorGfLd', 'title': '랜딩관 GF'}, // GF 랜딩관 
+                        {'path': 'map/181030_JSW_zoomout_map_KOR.svg', 'id': 'floorGfZOM', 'title': 'ZoomOut Map'}, // GF ZoomOutMap
+                        {'path': 'map/181030_Attrac_GF_wayfinding_KOR.svg', 'id': 'floorGfAtr', 'title': 'GF 메리어트관'}, // GF Attrac
+                        {'path': 'map/181030_Somerset_GF_wayfinding_KOR.svg', 'id': 'floorGfSms', 'title': 'Somerset GF'}, // GF Sommerset
+                        {'path': 'map/181030_Somerset1F_wayfinding_KOR.svg', 'id': 'floorSmsF1', 'title': 'Somerset F1'}, // Sommerset F1
+                        {'path': 'map/181030_Somerset3F_wayfinding_KOR.svg', 'id': 'floorSmsF3', 'title': 'Somerset F3'}, // Sommerset F3
+                        {'path': 'map/181030_Ma_1F-1_wayfinding_KOR.svg', 'id': 'floorMaF100', 'title': '메리어트관 F1'}, // 메리어트 F1-1
+                        {'path': 'map/181030_Ma_1F-2_wayfinding_KOR.svg', 'id': 'floorMaF101', 'title': '랜딩관 F1'}, // 메리어트 F1-1
+                        {'path': 'map/181030_Ma_5F_wayfinding_KOR.svg', 'id': 'floorMaF5', 'title': '메리어트관 F5'}, // 메리어트 F5
+                        {'path': 'map/181030_Ma_LGF_wayfinding_KOR.svg', 'id': 'floorLGFMa', 'title': '메리어트관 LGF'},  //LGF 메리어트관 (F2)
+                        {'path': 'map/181030_Rd_LGF_wayfinding_KOR.svg', 'id': 'floorLGFLd', 'title': '랜딩관 LGF '},  //LGF 랜딩관 (F2)
+                        {'path': 'map/181030_Sh_1F-1_wayfinding_KOR.svg', 'id': 'floorShF100', 'title': '신화관 1'}, // 신화관 F1-1
+                        {'path': 'map/181030_Sh_1F-2_wayfinding_KOR.svg', 'id': 'floorShF101', 'title': '신화관 2'}, // 신화관 F1-1
+					],
+					'path': {
+						width: 3,
+						radius: 8,
+						speed: 5
+					},
+					'startpoint': function () {
+						return 'lobbyMaGf';
+					},
+                    'defaultMap': 'floorGfMa',
+					'showLocation': true ,
+					'pinchToZoom' : false,
+					'zoomToRoute' : false,
+					'zoomPadding' : false 
+				}, function(e){
+					detailLinkUi ();
+                    var stp = $('#myMaps').wayfinding('startpoint');
+                    lobbyHide(stp);
+                });
+                
+            
+			}); 
+		</script>
+	</body>
+</html>

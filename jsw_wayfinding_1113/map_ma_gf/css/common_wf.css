@@ -1,0 +1,239 @@
+.wrap {
+    position: relative;
+    width:100%;
+    max-width: 1920px;
+    height:1080px;
+    background-color: #1b386b;
+    overflow: hidden;
+    outline: 1px solid #ccc;
+}
+header, aside, .contents {
+    display: block;
+}
+header {
+    position: relative;
+    width: 100%;
+    height: 180px;
+    float:left;
+    overflow:hidden;
+    font-size: 28px; /* 28px */
+    font-weight: 600;
+    color: #fff;
+}
+header h1 {
+    position: absolute;
+    top:0;
+    left:0;
+}
+header h1 a {
+    display: block;
+    padding: 50px 50px;
+}
+
+header .location_state {
+    position: absolute;
+    top:38px;
+    right:0;
+    text-align: right;
+    padding: 0 50px;
+}
+header .location_state .current{
+    font-size: 22px;  
+    margin-bottom: 16px;
+}
+
+.state_info  {
+    font-size: 26px;  
+    margin-bottom: 13px;
+}
+nav {
+    width: 27.08%;
+    height: 689px;
+    float: right;
+    overflow: hidden;
+    font-size: 26px;
+    font-weight: 600;
+}
+
+nav .depth_01 {
+    background-image: linear-gradient(#0f2446, #0d2c5c);
+}
+
+nav .nav_list_tit {
+    height: 70px;
+    background-color: #1b386b;
+}
+nav .depth_01 .nav_list_tit {
+    font-family: 'NanumSquareB';
+    box-sizing:border-box
+}
+nav .depth_01 .nav_list_tit a {
+    padding:25px 20px 25px 100px;
+    display:block
+}
+nav .depth_01 > li{
+    border-bottom:2px solid rgba(255, 251, 251, 0.2);
+}
+nav .depth_01 .active .nav_list_tit {
+    background-color: transparent;
+}
+nav .depth_01 > li.active p a {
+    color: #fff;
+}
+nav .depth_01 > li > ul {
+    display: none;
+}
+nav .depth_01 > li a {
+    background:none;
+    border:0;
+    outline:none;
+    color:rgba(255, 255, 255, 0.3);
+}
+nav .depth_02 > li {
+    height:50px; 
+}
+
+nav .depth_02 > li a {
+    display: block;
+    height: 100%;
+    font-family: 'NanumSquareB';
+    box-sizing: border-box;
+    padding-left:53px;
+    color:rgba(255, 255, 255, 0.3);
+}
+nav .depth_02 > li.active a,
+nav .depth_02 > li:hover a {
+    color:#fff;
+    cursor: pointer
+}
+nav .depth_01 > li.active > ul {
+    display: block;
+}
+
+nav .disabled {
+    color:rgba(255, 255, 255, 0.3) !important;
+    cursor: default !important;
+}
+
+.contents {
+   width: 72.92%;
+   height:800px;
+   float: left;
+   background-color: #fff;
+   font-size:20px;  /* 20px */
+}
+
+aside {
+    box-sizing: border-box;
+    width: 27.08%;
+    overflow: hidden;
+}
+
+.setting_area {
+    position: absolute;
+    right:0;
+    bottom:0;
+    padding:0 58px;
+}
+.setting_area .seaerch_btn {
+    width:100%;
+    height: 68px;
+    font-size: 32px;
+    font-family: 'NanumSquareB';
+    color: #fff;
+    border: 0;
+    background: #6193ba;
+    border-radius: 8px;
+}
+.setting_area .lang {
+    display: flex;
+    font-family: 'NanumSquareB';
+    overflow:hidden;
+    font-size: 22px;/* 22px */
+    border-radius: 8px;
+    background: #fff;
+}
+
+.setting_area .seaerch_btn, .setting_area .lang {
+    box-sizing:border-box;
+    margin-bottom:19px;
+}
+.setting_area .lang a {
+    flex: 1;
+    height:70px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 70px;
+    border-right:2px solid rgb(228, 228, 228)
+}
+.setting_area .lang a.on {
+    color:#fff;
+    background: #6193ba;
+    border-right:0
+}
+.setting_area .lang a:last-child{
+    border-right:0
+}
+
+.time_area {
+    position: absolute;
+    left: 0; 
+    bottom:0;
+    padding: 0 50px 12px 50px;
+    color:#fff;
+    font-family: 'NanumSquare';
+    font-size: 45px;
+    text-align: center;
+}
+.time_area .date {
+    display: block;
+    font-family: 'NanumSquare';
+    font-size: 16px;
+    margin-bottom: 6px;
+}
+
+#controls h3 {
+    margin-bottom: 10px;
+    font-weight: bold;
+    color:#fff
+}
+#controls {
+    padding:10px;
+    border-radius: 10px;
+    position: absolute !important;
+    height:auto !important;
+    font-size:16px;
+    background: rgba(255, 251, 251, 0.3) !important;
+    right: 10px !important;
+    top: 250px !important;
+    z-index: 999 !important;
+    width: 250px !important;
+}
+
+#controls label {padding-bottom:10px; display:block;}
+#controls select {margin-bottom:15px ; display:block;}
+#controls .temp {margin-top:10px}
+#controls .temp * {
+    font-size:14px;
+    font-weight: bold;
+    padding:5px
+}
+
+.con {height:800px; position: relative; overflow:hidden} 
+#myMaps {height:730px; overflow:hidden}
+.quickIcon {position:absolute; bottom:0; right:10px; height:70px; overflow:hidden;}
+.quickIcon a {float:left; display:block; height:70px; text-align:top; line-height:70px;}
+.quickIcon a img {height:70px; display:inline-block; line-height:70px}
+
+.linkMenu {display:inline-block; height:70px; overflow:hidden;}
+.linkMenu ul {display:inline-block; height:70px; overflow:hidden;}
+.linkMenu ul li {float:left;}
+.linkMenu .map_area {display:none}
+.linkMenu span {float:left; padding:0 40px; min-width:80px; font-size:28px; border:none; color:#0f2446; background: #fff; padding:0; margin:0; display:inline-block; height:70px; line-height:70px; padding:0 40px;font-family: 'NanumSquareB';}
+.linkMenu button {min-width:80px; background: #fff; font-size:28px; border:none; color:rgb(170, 170, 170); padding:0; margin:0; display:inline-block; height:70px; line-height:70px; font-family: 'NanumSquareB';}
+.linkMenu button:focus,
+.linkMenu .on button {min-width:80px; background: #A5855B; font-size:28px; border:none; color:#fff; padding:0; margin:0; display:inline-block; height:70px; line-height:70px; outline:none}
+
+.progressBtn {border:1px solid red; padding:30px; position: absolute; top:50%; right:40px; z-index:999}
+.con .dim {position: absolute;top:0; left:0; background:rgba(0, 0, 0, 0.5); width:100%; height:100%; display:flex;justify-content: center;-webkit-align-items: center;align-items: center;}
+.con .dim img {align-items: center; display:flex; justify-content:center; flex-direction: column; min-height: 100px; min-width:100px;}
