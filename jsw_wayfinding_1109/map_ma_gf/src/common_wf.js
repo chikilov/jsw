@@ -121,6 +121,7 @@ $('.quickIcon a').each(function(){
     })
 })
 
+/*20181114 start*/
 // dim 생성 fn
 function moveProgress(img,t){
     if(!t) t = 3000;
@@ -140,3 +141,4 @@ function moveProgress(img,t){
 function clearProgress(layerObj){
     $(layerObj).remove();
 }
+/*20181114 end*/

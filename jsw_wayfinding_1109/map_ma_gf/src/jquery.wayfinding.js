@@ -1237,6 +1237,7 @@
 			}
 
 
+            /*20181114 start*/
 			// Call animatePath after 'animationDuration' milliseconds to animate the next segment of the path,
 			// if any.
 			// Note: This is not tiny path 'segments' which form the lines curving around
@@ -1255,6 +1256,7 @@
 					);
                 }
             }, animationDuration);
+            /*20181114 end*/
 			setTimeout(function () {
 				animatePath(++drawingSegment);
 
