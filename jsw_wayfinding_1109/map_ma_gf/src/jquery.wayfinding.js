@@ -112,7 +112,8 @@
 		'zoomToRoute': true,
 		'zoomPadding': 25,
 		// milliseconds to wait during animation when a floor change occurs
-		'floorChangeAnimationDelay': 1250
+		'floorChangeAnimationDelay': 1250,
+		'lang': 'kr'
 	},
 	dataStore;
 
@@ -1252,7 +1253,9 @@
                     moveProgress('jsw_pop_elev_' +
 						arrFloor[drawing[drawingSegment][drawing[drawingSegment].length - 1].floor] +
 						'_' +
-                        arrFloor[drawing[drawingSegment + 1][0].floor]
+                        arrFloor[drawing[drawingSegment + 1][0].floor] +
+						'_' +
+						options.lang
 					);
                 }
             }, animationDuration);
