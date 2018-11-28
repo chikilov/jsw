@@ -7,7 +7,7 @@
 	#shf100 .st1{fill:#F2F2F2;}
 	#shf100 .st2{fill:#B3B3B3;}
 	#shf100 .st3{fill:#A5855B;}
-	#shf100 .st4{font-family:'NanumSquareB';}
+	#shf100 .st4{font-family:'NotoSans';}
 	#shf100 .st5{font-size:12px;}
 	#shf100 .st6{fill:#EAEAEA;}
 	#shf100 .st7{fill:none;stroke:#A5855B;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;}

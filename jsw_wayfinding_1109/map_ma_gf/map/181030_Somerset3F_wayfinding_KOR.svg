@@ -9,7 +9,7 @@
 	#smsF3 .st3{fill:none;stroke:#A5855B;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;}
 	#smsF3 .st4{fill:#FFFFFF;}
 	#smsF3 .st5{fill-rule:evenodd;clip-rule:evenodd;fill:#A5855B;}
-	#smsF3 .st6{font-family:'NanumSquareB';}
+	#smsF3 .st6{font-family:'NotoSans';}
 	#smsF3 .st7{font-size:12px;}
 	#smsF3 .st8{fill:none;stroke:#FF00FF;}
 	#smsF3 .st9{fill:none;stroke:#00FF00;}

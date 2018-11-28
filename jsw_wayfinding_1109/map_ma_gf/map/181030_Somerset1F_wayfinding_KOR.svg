@@ -14,7 +14,7 @@
 	#smsF1 .st8{fill:url(#SVGID_sms2);}
 	#smsF1 .st9{fill:#EF405C;}
 	#smsF1 .st10{fill:#C72D46;}
-	#smsF1 .st11{font-family:'NanumSquareB';}
+	#smsF1 .st11{font-family:'NotoSans';}
 	#smsF1 .st12{font-size:12px;}
 	#smsF1 .st13{fill:none;stroke:#FF00FF;}
 	#smsF1 .st14{fill:none;stroke:#00FF00;}
