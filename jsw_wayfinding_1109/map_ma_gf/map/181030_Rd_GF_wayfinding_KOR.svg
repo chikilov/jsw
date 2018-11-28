@@ -591,49 +591,43 @@
 			</image>
 		</g>
 		<g id="Spotname" class="spotname">
-			<text transform="matrix(1 0 0 1 526.365 341.2)" class="st2 st11 st12">플레이 타임</text>
-			<text transform="matrix(1 0 0 1 528.1638 438.9998)" class="st2 st11 st12">랜딩 다이닝</text>
-			<text transform="matrix(1 0 0 1 523.574 510.9998)" class="st2 st11 st12">랜딩 델리</text>
+			<text id="ldgf117" transform="matrix(1 0 0 1 526.365 341.2)" class="st2 st11 st12">플레이 타임</text>
+			<text id="ldgf118" transform="matrix(1 0 0 1 528.1638 438.9998)" class="st2 st11 st12">랜딩 다이닝</text>
+			<text id="ldgf119" transform="matrix(1 0 0 1 523.574 510.9998)" class="st2 st11 st12">랜딩 델리</text>
 			<g>
-				<text transform="matrix(1 0 0 1 264.1242 187.8877)" class="st2 st11 st13">영실룸</text>
+				<text id="ldgf102" transform="matrix(1 0 0 1 264.1242 187.8877)" class="st2 st11 st13">영실룸</text>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 291.1096 175.8877)" class="st2 st11 st13">어리목룸</text>
+				<text id="ldgf103" transform="matrix(1 0 0 1 291.1096 175.8877)" class="st2 st11 st13">어리목룸</text>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 319.1945 187.8877)" class="st2 st11 st13">백록룸</text>
+				<text id="ldgf104" transform="matrix(1 0 0 1 319.1945 187.8877)" class="st2 st11 st13">백록룸</text>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 347.4797 187.8877)" class="st2 st11 st13">영주룸</text>
+				<text id="ldgf105" transform="matrix(1 0 0 1 347.4797 187.8877)" class="st2 st11 st13">영주룸</text>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 375.465 187.8877)" class="st2 st11 st13">올레룸</text>
+				<text id="ldgf106" transform="matrix(1 0 0 1 375.465 187.8877)" class="st2 st11 st13">올레룸</text>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 404.4504 187.8877)" class="st2 st11 st13">우도룸</text>
+				<text id="ldgf107" transform="matrix(1 0 0 1 404.4504 187.8877)" class="st2 st11 st13">우도룸</text>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 431.8351 187.8877)" class="st2 st11 st13">성산룸</text>
+				<text id="ldgf108" transform="matrix(1 0 0 1 431.8351 187.8877)" class="st2 st11 st13">성산룸</text>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 459.8205 187.8877)" class="st2 st11 st13">안덕룸</text>
+				<text id="ldgf109" transform="matrix(1 0 0 1 459.8205 187.8877)" class="st2 st11 st13">안덕룸</text>
 			</g>
-			<text transform="matrix(1 0 0 1 326.6509 547.0996)" class="st2 st11 st12">컨시어지</text>
-			<text transform="matrix(1 0 0 1 394.7545 547.0996)" class="st2 st11 st12">프론트 데스크</text>
-			<text transform="matrix(1 0 0 1 416.3638 619.4998)" class="st2 st11 st12">랜딩 라운지</text>
-			<text transform="matrix(1 0 0 1 355.1646 579.6995)" class="st2 st11 st12">랜딩관 로비</text>
-			<text transform="matrix(1 0 0 1 211.2354 320.4998)" class="st2 st11 st12">한라룸</text>
-			<text transform="matrix(1 0 0 1 222.6354 334.8998)" class="st2 st11 st12">A</text>
-			<text transform="matrix(1 0 0 1 255.3119 320.4998)" class="st2 st11 st12">한라룸</text>
-			<text transform="matrix(1 0 0 1 267.0119 334.8998)" class="st2 st11 st12">B</text>
-			<text transform="matrix(1 0 0 1 299.2341 320.4998)" class="st2 st11 st12">한라룸</text>
-			<text transform="matrix(1 0 0 1 310.8341 334.8998)" class="st2 st11 st12">C</text>
-			<text transform="matrix(1 0 0 1 386.9367 355.0999)" class="st2 st11 st12">랜딩 볼룸 A</text>
-			<text transform="matrix(1 0 0 1 400.1367 369.4999)" class="st2 st11 st12">(LGF)</text>
-			<text transform="matrix(1 0 0 1 387.1652 407.2996)" class="st2 st11 st12">랜딩 볼룸 B</text>
-			<text transform="matrix(1 0 0 1 400.1652 421.6996)" class="st2 st11 st12">(LGF)</text>
-			<text transform="matrix(1 0 0 1 387.1105 459.0999)" class="st2 st11 st12">랜딩 볼룸 C</text>
-			<text transform="matrix(1 0 0 1 400.1105 473.4999)" class="st2 st11 st12">(LGF)</text>
+			<text id="ldgf114" transform="matrix(1 0 0 1 326.6509 547.0996)" class="st2 st11 st12">컨시어지</text>
+			<text id="ldgf115" transform="matrix(1 0 0 1 394.7545 547.0996)" class="st2 st11 st12">프론트 데스크</text>
+			<text id="ldgf116" transform="matrix(1 0 0 1 416.3638 619.4998)" class="st2 st11 st12">랜딩 라운지</text>
+			<text id="lobbyLdGf" transform="matrix(1 0 0 1 355.1646 579.6995)" class="st2 st11 st12">랜딩관 로비</text>
+			<text id="ldgf111" transform="matrix(1 0 0 1 211.2354 320.4998)"><tspan x="0" y="0" class="st2 st11 st12">한라룸</tspan><tspan x="12" y="14" class="st2 st11 st12">A</tspan></text>
+			<text id="ldgf112" transform="matrix(1 0 0 1 255.3119 320.4998)"><tspan x="0" y="0" class="st2 st11 st12">한라룸</tspan><tspan x="12" y="14" class="st2 st11 st12">B</tspan></text>
+			<text id="ldgf113" transform="matrix(1 0 0 1 299.2341 320.4998)"><tspan x="0" y="0" class="st2 st11 st12">한라룸</tspan><tspan x="12" y="14" class="st2 st11 st12">C</tspan></text>
+			<text id="ldlgf102" transform="matrix(1 0 0 1 386.9367 355.0999)"><tspan x="0" y="0" class="st2 st11 st12">랜딩 볼룸 A</tspan><tspan x="14" y="14" class="st2 st11 st12">(LGF)</tspan></text>
+			<text id="ldlgf103" transform="matrix(1 0 0 1 387.1652 407.2996)"><tspan x="0" y="0" class="st2 st11 st12">랜딩 볼룸 B</tspan><tspan x="14" y="14" class="st2 st11 st12">(LGF)</tspan></text>
+			<text id="ldlgf104" transform="matrix(1 0 0 1 387.1105 459.0999)"><tspan x="0" y="0" class="st2 st11 st12">랜딩 볼룸 C</tspan><tspan x="14" y="14" class="st2 st11 st12">(LGF)</tspan></text>
 		</g>
 	</g>
 	<g id="Portals">

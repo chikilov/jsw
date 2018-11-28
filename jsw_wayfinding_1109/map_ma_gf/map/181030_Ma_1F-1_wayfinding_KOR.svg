@@ -264,19 +264,19 @@
 
 	</g>
 	<g id="Spotname1Fsh" class="spotname">
-		<text transform="matrix(1 0 0 1 301.4949 75.8997)" class="st2 st9 st10">신화관</text>
+		<text id="shinhwa" transform="matrix(1 0 0 1 301.4949 75.8997)" class="st2 st9 st10">신화관</text>
 	</g>
 	<g id="Spotname1Fma" class="spotname">
-		<text transform="matrix(1 0 0 1 1247.074 -243.5002)" class="st2 st9 st10">메리어트관</text>
-		<text transform="matrix(1 0 0 1 768.6746 58.2996)" class="st2 st9 st10">메리어트관</text>
-		<text transform="matrix(1 0 0 1 768.6746 604.2996)" class="st2 st9 st10">메리어트관</text>
-		<text transform="matrix(1 0 0 1 1295.0945 399.2996)"><tspan x="0" y="0" class="st2 st9 st10">프론트</tspan><tspan x="0" y="14.4" class="st2 st9 st10">데스크</tspan></text>
-		<text transform="matrix(1 0 0 1 1287.2859 262.6995)" class="st2 st9 st10">컨시어지</text>
-		<text transform="matrix(1 0 0 1 1187.4343 220.4998)"><tspan x="0" y="0" class="st2 st9 st10">디 아일렛</tspan><tspan x="6.1" y="14.4" class="st2 st9 st10">라운지</tspan></text>
+		<text id="mariott" transform="matrix(1 0 0 1 1247.074 -243.5002)" class="st2 st9 st10">메리어트관</text>
+		<text id="mariott" transform="matrix(1 0 0 1 768.6746 58.2996)" class="st2 st9 st10">메리어트관</text>
+		<text id="mariott" transform="matrix(1 0 0 1 768.6746 604.2996)" class="st2 st9 st10">메리어트관</text>
+		<text id="ma1f102" transform="matrix(1 0 0 1 1295.0945 399.2996)"><tspan x="0" y="0" class="st2 st9 st10">프론트</tspan><tspan x="0" y="14.4" class="st2 st9 st10">데스크</tspan></text>
+		<text id="ma1f101" transform="matrix(1 0 0 1 1287.2859 262.6995)" class="st2 st9 st10">컨시어지</text>
+		<text id="ma1f106" transform="matrix(1 0 0 1 1187.4343 220.4998)"><tspan x="0" y="0" class="st2 st9 st10">디 아일렛</tspan><tspan x="6.1" y="14.4" class="st2 st9 st10">라운지</tspan></text>
 	</g>
 	<g id="Spotname1Fld" class="spotname">
-		<text transform="matrix(1 0 0 1 301.4949 581.8997)" class="st2 st9 st10">랜딩관</text>
-		<text transform="matrix(1 0 0 1 132.4949 594.8997)" class="st2 st9 st10">전망대</text>
+		<text id="landing" transform="matrix(1 0 0 1 301.4949 581.8997)" class="st2 st9 st10">랜딩관</text>
+		<text id="rdobserver" transform="matrix(1 0 0 1 132.4949 594.8997)" class="st2 st9 st10">전망대</text>
 	</g>
 	<g id="Portals">
 		<!-- <line id="Elev.1.floor2" class="st11" x1="493" y1="704" x2="500" y2="697"/> -->

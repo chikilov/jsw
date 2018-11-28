@@ -196,10 +196,9 @@
 		</a>
 	</g>
 	<g id="SpotnameLGF" class="spotname">
-		<text transform="matrix(1 0 0 1 1268.3137 331.4998)" class="st2 st10 st11">랜딩 카지노</text>
-		<text transform="matrix(1 0 0 1 1229.0002 480.8098)" class="st2 st10 st12">환전소</text>
-		<text transform="matrix(1 0 0 1 1181.0198 473.8098)" class="st2 st10 st12">영승</text>
-		<text transform="matrix(1 0 0 1 1171.0198 488.2098)" class="st2 st10 st12">쥬얼리숍</text>
+		<text id="malgf101" transform="matrix(1 0 0 1 1268.3137 331.4998)" class="st2 st10 st11">랜딩 카지노</text>
+		<text id="malgf103" transform="matrix(1 0 0 1 1229.0002 480.8098)" class="st2 st10 st12">환전소</text>
+		<text id="malgf102" transform="matrix(1 0 0 1 1181.0198 473.8098)"><tspan x="0" y="0" class="st2 st10 st12">영승</tspan><tspan x="-10" y="14" class="st2 st10 st12">쥬얼리숍</tspan></text>
 	</g>
 	<g id="Portals">
 		<line id="Stair.1.floorGfMa" class="st13" x1="1183" y1="334" x2="1190" y2="327"/>

@@ -1315,7 +1315,7 @@
 					c0.4-0.4,0.7-1,0.7-1.6v-46c0-1.3,1-2.3,2.3-2.3h93.3c1.3,0,2.3-1,2.3-2.3v-44.7C490.7-85.1,489.7-86.1,488.5-86.1L488.5-86.1z"
 					/>
 			</g>
-			<text transform="matrix(1 0 0 1 256.2192 34.8018)" class="st7 st3 st8">서머셋 클럽하우스</text>
+			<text id="clubhouse" transform="matrix(1 0 0 1 256.2192 34.8018)" class="st7 st3 st8">서머셋 클럽하우스</text>
 		</g>
 		<g>
 			<path class="st6" d="M498.8,406.1l5.1-5.1l2.9,2.9c0.1,0.1,0.2,0.1,0.4,0.1s0.3-0.1,0.4-0.1l4.1-4.1c0.2-0.2,0.2-0.5,0-0.7l-6-6
@@ -1441,29 +1441,30 @@
 	</g>
 	<g id="Spotnames" class="spotname">
 		<g>
-			<text transform="matrix(1 0 0 1 600.7754 696.4746)" class="st7 st3 st8">신화 빌라스</text>
+			<text id="shvilla" transform="matrix(1 0 0 1 600.7754 696.4746)" class="st7 st3 st8">신화 빌라스</text>
 		</g>
 		<g>
-			<text transform="matrix(1 0 0 1 575.2104 289.6621)" class="st7 st3 st11">서머셋 제주신화월드</text>
+			<text id="somerset" transform="matrix(1 0 0 1 575.2104 289.6621)" class="st7 st3 st11">서머셋 제주신화월드</text>
 		</g>
 		<g>
-			<text transform="matrix(1 0 0 1 982.8037 205.4004)" class="st7 st3 st8">한국 스퀘어</text>
+			<text id="hksquare" transform="matrix(1 0 0 1 982.8037 205.4004)" class="st7 st3 st8">한국 스퀘어</text>
 		</g>
-		<text transform="matrix(1 0 0 1 983.2441 220.1709)" class="st7 st3 st12">1F : 투썸플레이스</text>
-		<text transform="matrix(1 0 0 1 983.2441 232.1709)" class="st7 st3 st12">2F : 팬 브레드 키친 / 로봇김밥</text>
+		<text id="hsqua101" transform="matrix(1 0 0 1 983.2441 220.1709)" class="st7 st3 st12">1F : 투썸플레이스</text>
+		<text id="hsqua201" transform="matrix(1 0 0 1 983.2441 232.1709)" class="st7 st3 st12">2F : 팬 브레드 키친</text>
+		<text id="hsqua202" transform="matrix(1 0 0 1 1066.2441 232.1709)" class="st7 st3 st12">/ 로봇김밥</text>
 		<g>
-			<text transform="matrix(1 0 0 1 798.7969 425.8066)" class="st7 st3 st12">1F : 이스트임페리얼 네일</text>
-			<text transform="matrix(1 0 0 1 798.7969 437.8066)" class="st7 st3 st12">1F : 이스트임페리얼 헤어</text>
+			<text id="chcrescent102" transform="matrix(1 0 0 1 798.7969 425.8066)" class="st7 st3 st12">1F : 이스트임페리얼 네일</text>
+			<text id="chcrescent103" transform="matrix(1 0 0 1 798.7969 437.8066)" class="st7 st3 st12">1F : 이스트임페리얼 헤어</text>
 		</g>
 		<g>
-			<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 504.8041 382.7348)" class="st7 st3 st8">일본 테라스</text>
+			<text id="jpterrace" transform="matrix(0.7071 -0.7071 0.7071 0.7071 504.8041 382.7348)" class="st7 st3 st8">일본 테라스</text>
 		</g>
-		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 528.4955 407.9384)" class="st7 st3 st13">CU 편의점</text>
-		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 549.9211 386.2841)" class="st7 st3 st13">파리바게트</text>
-		<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 358.3624 379.6245)" class="st7 st3 st14">웨스트 힐</text>
-		<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 383.6114 403.1032)" class="st7 st3 st14">BHC</text>
+		<text id="jpterrace01" transform="matrix(0.7071 -0.7071 0.7071 0.7071 526.4960 407.9384)" class="st7 st3 st13">CU 편의점</text>
+		<text id="jpterrace02" transform="matrix(0.7071 -0.7071 0.7071 0.7071 548.9211 386.2841)" class="st7 st3 st13">파리바게트</text>
+		<text id="dormitory01" transform="matrix(0.7071 0.7071 -0.7071 0.7071 358.3624 377.6245)" class="st7 st3 st14">웨스트 힐</text>
+		<text id="dormitory02" transform="matrix(0.7071 0.7071 -0.7071 0.7071 383.6114 403.1032)" class="st7 st3 st14">BHC</text>
 		<g>
-			<text transform="matrix(1 0 0 1 798.7969 410.4004)" class="st7 st3 st8">중국 초승달</text>
+			<text id="chcrescent101" transform="matrix(1 0 0 1 798.7969 410.4004)" class="st7 st3 st8">중국 초승달</text>
 		</g>
 	</g>
 	<g id="Portals">

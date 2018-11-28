@@ -403,15 +403,14 @@
 	</g>
 </g>
 <g id="Spotname3Fsomerset" class="spotname">
-	<text transform="matrix(1 0 0 1 663.7136 94.7)" class="st2 st6 st7">트랜스포머 오토봇</text>
-	<text transform="matrix(1 0 0 1 679.8136 109.1)" class="st2 st6 st7">얼라이언스</text>
-	<text transform="matrix(1 0 0 1 471.2029 268.0994)" class="st2 st6 st7">피트니스</text>
-	<text transform="matrix(1 0 0 1 448.8132 357.2996)" class="st2 st6 st7">찜질방</text>
-	<text transform="matrix(1 0 0 1 509.9333 464.7)" class="st2 st6 st7">탐모라 찜질방</text>
-	<text transform="matrix(1 0 0 1 647.2029 495.2996)" class="st2 st6 st7">미디어룸</text>
-	<text transform="matrix(1 0 0 1 596.2126 425.2996)" class="st2 st6 st7">락커룸</text>
-	<text transform="matrix(1 0 0 1 632.8132 461.8992)" class="st2 st6 st7">락커룸</text>
-	<text transform="matrix(1 0 0 1 605.3132 557.5994)" class="st2 st6 st7">키즈룸</text>
+	<text id="somer301" transform="matrix(1 0 0 1 663.7136 94.7)"><tspan x="0" y="0" class="st2 st6 st7">트랜스포머 오토봇</tspan><tspan x="18" y="14" class="st2 st6 st7">얼라이언스</tspan></text>
+	<text id="somer302" transform="matrix(1 0 0 1 471.2029 268.0994)" class="st2 st6 st7">피트니스</text>
+	<text id="jjimjil" transform="matrix(1 0 0 1 448.8132 357.2996)" class="st2 st6 st7">찜질방</text>
+	<text id="somer305" transform="matrix(1 0 0 1 509.9333 464.7)" class="st2 st6 st7">탐모라 찜질방</text>
+	<text id="mediarm" transform="matrix(1 0 0 1 647.2029 495.2996)" class="st2 st6 st7">미디어룸</text>
+	<text id="lockerrm" transform="matrix(1 0 0 1 596.2126 425.2996)" class="st2 st6 st7">락커룸</text>
+	<text id="lockerrm" transform="matrix(1 0 0 1 632.8132 461.8992)" class="st2 st6 st7">락커룸</text>
+	<text id="somer306" transform="matrix(1 0 0 1 605.3132 557.5994)" class="st2 st6 st7">키즈룸</text>
 </g>
 <g id="Portals">
 	<line id="ElevSms.1.floorSmsF1" class="st8" x1="751" y1="167" x2="758" y2="160"/>

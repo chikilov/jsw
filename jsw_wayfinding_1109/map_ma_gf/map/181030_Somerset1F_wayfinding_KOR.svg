@@ -467,16 +467,14 @@
 	</a>
 </g>
 <g id="Soptname1Fsomerset" class="spotname">
-	<text transform="matrix(1 0 0 1 956.5769 114.8992)" class="st2 st11 st12">파크사이드 다이닝</text>
-	<text transform="matrix(1 0 0 1 677.9005 92.0593)" class="st2 st11 st12">트랜스포머</text>
-	<text transform="matrix(1 0 0 1 676.4005 106.4593)" class="st2 st11 st12">리테일 매장</text>
-	<text transform="matrix(1 0 0 1 664.3967 211.8992)" class="st2 st11 st12">프론트 데스크</text>
-	<text transform="matrix(1 0 0 1 490.0569 297.8992)" class="st2 st11 st12">남자사우나</text>
-	<text transform="matrix(1 0 0 1 669.8572 477.0994)" class="st2 st11 st12">여자사우나</text>
-	<text transform="matrix(1 0 0 1 477.5969 492.4998)" class="st6 st11 st12">탐모라 수영장</text>
-	<text transform="matrix(1 0 0 1 718.2341 279.4998)" class="st2 st11 st12">서머셋</text>
-	<text transform="matrix(1 0 0 1 703.2341 293.8998)" class="st2 st11 st12">제주신화월드</text>
-	<text transform="matrix(1 0 0 1 723.2341 308.2998)" class="st2 st11 st12">로비</text>
+	<text id="somer103" transform="matrix(1 0 0 1 956.5769 114.8992)" class="st2 st11 st12">파크사이드 다이닝</text>
+	<text id="somer101" transform="matrix(1 0 0 1 677.9005 92.0593)" class="st2 st11 st12">트랜스포머</text>
+	<text id=" " transform="matrix(1 0 0 1 676.4005 106.4593)" class="st2 st11 st12">리테일 매장</text>
+	<text id="somer104" transform="matrix(1 0 0 1 664.3967 211.8992)" class="st2 st11 st12">프론트 데스크</text>
+	<text id="somer106" transform="matrix(1 0 0 1 490.0569 297.8992)" class="st2 st11 st12">남자사우나</text>
+	<text id="somer107" transform="matrix(1 0 0 1 669.8572 477.0994)" class="st2 st11 st12">여자사우나</text>
+	<text id="somer108" transform="matrix(1 0 0 1 477.5969 492.4998)" class="st6 st11 st12">탐모라 수영장</text>
+	<text id="somersetlobby" transform="matrix(1 0 0 1 718.2341 279.4998)"><tspan x="0" y="0" class="st2 st11 st12">서머셋</tspan><tspan x="-16" y="14" class="st2 st11 st12">제주신화월드</tspan><tspan x="6" y="28" class="st2 st11 st12">로비</tspan></text>
 </g>
 <g id="Portals">
 	<line id="Wayout.3.floorGfZOM" class="st13" x1="849" y1="361" x2="856" y2="354"/>
