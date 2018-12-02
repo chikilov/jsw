@@ -396,14 +396,14 @@
 		<text id="sh1f108" transform="matrix(1 0 0 1 409.6951 662.6995)" class="st3 st4 st5">바온탑</text>
 		<text id="sh1f113" transform="matrix(1 0 0 1 322.6853 544.8997)" class="st10 st4 st5">스카이풀</text>
 		<text id="sh1f107" transform="matrix(1 0 0 1 445.8953 343.2996)" class="st3 st4 st5">봄바쉑</text>
-		<text id="sh1f106" transform="matrix(1 0 0 1 515.615 524.8997)" class="st3 st4 st5">서비스 데스크</text>
+		<text id="sh1f106" transform="matrix(1 0 0 1 510.615 524.8997)" class="st3 st4 st5">서비스 데스크</text>
 		<text id="shinhwa" transform="matrix(1 0 0 1 1031.4949 83.4998)" class="st3 st4 st5">신화관</text>
-		<text id="sh1f105" transform="matrix(1 0 0 1 596.4851 552.0999)"><tspan x="0" y="0" class="st3 st4 st5">피트니스</tspan><tspan x="10" y="14" class="st3 st4 st5">코너</tspan></text>
-		<text id="sh1f104" transform="matrix(1 0 0 1 602.4949 464.0996)" class="st3 st4 st5">요가룸</text>
-		<text id="sh1f103" transform="matrix(1 0 0 1 613.4148 392.6997)" class="st3 st4 st5">프론트 데스크</text>
-		<text id="shlounge" transform="matrix(1 0 0 1 604.3748 301.2996)"><tspan x="0" y="0" class="st3 st4 st5">신화</tspan><tspan x="-4" y="14" class="st3 st4 st5">라운지</tspan></text>
-		<text id="sh1f101" transform="matrix(1 0 0 1 555.574 121.8997)" class="st3 st4 st5">신화 다이닝</text>
-		<text id="lobbysh1f" transform="matrix(1 0 0 1 696.0945 332.4998)"><tspan x="0" y="0" class="st3 st4 st5">신화관</tspan><tspan x="6" y="14" class="st3 st4 st5">로비</tspan></text>
+		<text id="sh1f105" transform="matrix(1 0 0 1 594.4851 552.0999)"><tspan x="0" y="0" class="st3 st4 st5">피트니스</tspan><tspan x="10" y="14" class="st3 st4 st5">코너</tspan></text>
+		<text id="sh1f104" transform="matrix(1 0 0 1 600.4949 464.0996)" class="st3 st4 st5">요가룸</text>
+		<text id="sh1f103" transform="matrix(1 0 0 1 606.4148 392.6997)" class="st3 st4 st5">프론트 데스크</text>
+		<text id="shlounge" transform="matrix(1 0 0 1 602.3748 301.2996)"><tspan x="0" y="0" class="st3 st4 st5">신화</tspan><tspan x="-4" y="14" class="st3 st4 st5">라운지</tspan></text>
+		<text id="sh1f101" transform="matrix(1 0 0 1 555.574 121.8997)"><tspan x="0" y="0" class="st3 st4 st5">신화 다이닝</tspan><tspan x="8" y="14" class="st3 st4 st5">&amp; 라운지</tspan></text>
+		<text id="lobbysh1f" transform="matrix(1 0 0 1 696.0945 332.4998)"><tspan x="0" y="0" class="st3 st4 st5">신화관</tspan><tspan x="0" y="14" class="st3 st4 st5">리조트</tspan></text>
 	</g>
 	<g id="Portals">
 		<line id="Elev.4.floor0_2_" class="st16" x1="467" y1="555" x2="474" y2="548"/>
