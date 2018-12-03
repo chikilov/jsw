@@ -220,8 +220,8 @@ aside {
 }
 
 .con {height:800px; position: relative; overflow:hidden}
-#myMaps {height:730px; overflow:hidden}
-.quickIcon {position:absolute; bottom:0; right:10px; height:70px; overflow:hidden;}
+#myMaps {height:730px; overflow:hidden; position: absolute;bottom: 0;left: 0;}
+.quickIcon {position:absolute; top:0; right:10px; height:70px; overflow:hidden;}
 .quickIcon a {float:left; display:block; height:70px; text-align:top; line-height:70px;}
 .quickIcon a img {height:70px; display:inline-block; line-height:70px}
 

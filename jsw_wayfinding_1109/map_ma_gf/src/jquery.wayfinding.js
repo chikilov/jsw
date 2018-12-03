@@ -1248,8 +1248,6 @@
             		var arrFloor = [
             			'mag', 'ldg', 'zog', 'maa', 'smg', 'sm1', 'sm3', 'ma1', 'ld1', 'ma5', 'mal', 'ldl', 'sh1', 'sh2'
 					];
-					console.log(drawing[drawingSegment][drawing[drawingSegment].length - 1].floor);
-                    console.log(drawing[drawingSegment + 1][0].floor);
                     moveProgress('jsw_pop_elev_' +
 						arrFloor[drawing[drawingSegment][drawing[drawingSegment].length - 1].floor] +
 						'_' +
