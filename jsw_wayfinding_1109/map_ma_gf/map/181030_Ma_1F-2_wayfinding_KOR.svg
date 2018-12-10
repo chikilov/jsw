@@ -274,26 +274,26 @@
 		</g>
 	</g>
 	<g id="Spotname1Fma" class="spotname">
-		<text id="mariott" transform="matrix(1 0 0 1 1247.074 448.8997)" class="st2 st10 st11">메리어트관</text>
-		<text id="mariott" transform="matrix(1 0 0 1 768.6746 144.2996)" class="st2 st10 st11">메리어트관</text>
+		<text id="mariott" text-anchor="middle" transform="matrix(1 0 0 1 1268 448)" class="st2 st10 st11">메리어트관</text>
+		<text id="mariott" text-anchor="middle" transform="matrix(1 0 0 1 788 144)" class="st2 st10 st11">메리어트관</text>
 	</g>
 	<g id="Spotname1Fld" class="spotname">
-		<text id="landing" transform="matrix(1 0 0 1 301.4949 121.8997)" class="st2 st10 st11">랜딩관</text>
-		<text id="rdobserver" transform="matrix(1 0 0 1 132.4949 134.8997)" class="st2 st10 st11">전망대</text>
-		<text id="landing" transform="matrix(1 0 0 1 448.2957 591.0999)" class="st2 st10 st11">랜딩관</text>
+		<text id="landing" text-anchor="middle" transform="matrix(1 0 0 1 301 121)" class="st2 st10 st11">랜딩관</text>
+		<text id="rdobserver" text-anchor="middle" transform="matrix(1 0 0 1 152 134)" class="st2 st10 st11">전망대</text>
+		<text id="landing" text-anchor="middle" transform="matrix(1 0 0 1 466 591)" class="st2 st10 st11">랜딩관</text>
 	</g>
 	<g id="SpotnameMOSIL" class="spotname">
-		<text id="sh1f112" transform="matrix(1 0 0 1 880.8953 377.0999)" class="st9 st10 st11">사우나</text>
-		<text id="ma1f104" transform="matrix(1 0 0 1 819.7556 317.0999)" class="st9 st10 st11">모실 클럽 하우스</text>
-		<text id="mosil01" transform="matrix(1 0 0 1 992.1042 448.4998)" class="st9 st10 st11">스파</text>
-		<text id="mosil02" transform="matrix(1 0 0 1 803.6746 494.6995)" class="st9 st10 st11">실내수영장</text>
-		<text id="mosil03" transform="matrix(1 0 0 1 756.2449 374.6995)" class="st9 st10 st11">스몰 풀</text>
-		<text id="mosil04" transform="matrix(1 0 0 1 692.6443 405.8997)" class="st9 st10 st11">키즈 풀</text>
-		<text id="mosil05" transform="matrix(1 0 0 1 678.8445 535.4998)" class="st9 st10 st11">온수 풀</text>
-		<text id="mosil06" transform="matrix(1 0 0 1 801.0339 593.6995)" class="st9 st10 st11">패밀리 풀</text>
-		<text id="mosil07" transform="matrix(1 0 0 1 1055.4343 393.2996)" class="st9 st10 st11">어덜트 풀</text>
+		<text id="sh1f112" text-anchor="middle" transform="matrix(1 0 0 1 898 377)" class="st9 st10 st11">사우나</text>
+		<text id="ma1f104" text-anchor="middle" transform="matrix(1 0 0 1 800 317)" class="st9 st10 st11">모실 클럽 하우스</text>
+		<text id="mosil01" text-anchor="middle" transform="matrix(1 0 0 1 1002 448)" class="st9 st10 st11">스파</text>
+		<text id="mosil02" text-anchor="middle" transform="matrix(1 0 0 1 828 494)" class="st9 st10 st11">실내수영장</text>
+		<text id="mosil03" text-anchor="middle" transform="matrix(1 0 0 1 772 374)" class="st9 st10 st11">스몰 풀</text>
+		<text id="mosil04" text-anchor="middle" transform="matrix(1 0 0 1 710 405)" class="st9 st10 st11">키즈 풀</text>
+		<text id="mosil05" text-anchor="middle" transform="matrix(1 0 0 1 694 535)" class="st9 st10 st11">온수 풀</text>
+		<text id="mosil06" text-anchor="middle" transform="matrix(1 0 0 1 820 593)" class="st9 st10 st11">패밀리 풀</text>
+		<text id="mosil07" text-anchor="middle" transform="matrix(1 0 0 1 1080 393)" class="st9 st10 st11">어덜트 풀</text>
 		<g>
-			<text id="ma1f105" transform="matrix(1 0 0 1 931.0847 486.2996)"><tspan x="0" y="0" class="st2 st10 st11">풀사이드</tspan><tspan x="10" y="14.4" class="st2 st10 st11">카페</tspan></text>
+			<text id="ma1f105" text-anchor="middle" transform="matrix(1 0 0 1 950 486)"><tspan x="0" y="0" class="st2 st10 st11">풀사이드</tspan><tspan x="0" y="14" class="st2 st10 st11">카페</tspan></text>
 		</g>
 	</g>
 	<g id="Portals">

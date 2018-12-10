@@ -190,9 +190,9 @@
 		</g>
 	</g>
 	<g id="SpotnameLGF" class="spotname">
-		<text id="ldlgf102" transform="matrix(1 0 0 1 382.9367 362.0999)" class="st2 st4 st5">랜딩 볼룸 A</text>
-		<text id="ldlgf103" transform="matrix(1 0 0 1 383.1652 414.2996)" class="st2 st4 st5">랜딩 볼룸 B</text>
-		<text id="ldlgf104" transform="matrix(1 0 0 1 383.1105 466.0999)" class="st2 st4 st5">랜딩 볼룸 C</text>
+		<text id="ldlgf102" text-anchor="middle" transform="matrix(1 0 0 1 410 362)" class="st2 st4 st5">랜딩 볼룸 A</text>
+		<text id="ldlgf103" text-anchor="middle" transform="matrix(1 0 0 1 410 414)" class="st2 st4 st5">랜딩 볼룸 B</text>
+		<text id="ldlgf104" text-anchor="middle" transform="matrix(1 0 0 1 410 466)" class="st2 st4 st5">랜딩 볼룸 C</text>
 	</g>
 	<g id="Portals">
 		<line id="Stair.2.floorGfLd" class="st6" x1="350" y1="313" x2="357" y2="306"/>

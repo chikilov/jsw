@@ -136,11 +136,11 @@
 						C1269.8,445.6,1265.7,444,1261.6,444L1261.6,444z"/>
 				</g>
 			</g>
-			<text id="kids" transform="matrix(1 0 0 1 932.1042 617.4998)" class="st3 st4 st5">키즈</text>
-			<text id="family" transform="matrix(1 0 0 1 1061.4949 526.8997)" class="st3 st4 st5">패밀리</text>
-			<text id="theme" transform="matrix(1 0 0 1 1224.4851 537.0999)" class="st3 st4 st5">테마가든</text>
-			<text id="gramping" transform="matrix(1 0 0 1 1235.4949 649.8997)" class="st3 st4 st5">글램핑</text>
-			<text id="theme" transform="matrix(1 0 0 1 1061.8855 643.8997)" class="st3 st4 st5">테마가든</text>
+			<text id="kids" text-anchor="middle" transform="matrix(1 0 0 1 952 617)" class="st3 st4 st5">키즈</text>
+			<text id="family" text-anchor="middle" transform="matrix(1 0 0 1 1081 526)" class="st3 st4 st5">패밀리</text>
+			<text id="theme" text-anchor="middle" transform="matrix(1 0 0 1 1246 537)" class="st3 st4 st5">테마가든</text>
+			<text id="gramping" text-anchor="middle" transform="matrix(1 0 0 1 1255 649)" class="st3 st4 st5">글램핑</text>
+			<text id="theme" text-anchor="middle" transform="matrix(1 0 0 1 1082 643)" class="st3 st4 st5">테마가든</text>
 		</g>
 		<g id="Shinhwa_2_">
 			<g>
@@ -391,19 +391,19 @@
 		</a>
 	</g>
 	<g id="Spotname1Fsh_2_" class="spotname">
-		<text id="sh1f112" transform="matrix(1 0 0 1 187.2957 690.6995)" class="st3 st4 st5">사우나</text>
-		<text id="sh1f111" transform="matrix(1 0 0 1 247.2957 690.6995)" class="st3 st4 st5">샤워실</text>
-		<text id="sh1f108" transform="matrix(1 0 0 1 409.6951 662.6995)" class="st3 st4 st5">바온탑</text>
-		<text id="sh1f113" transform="matrix(1 0 0 1 322.6853 544.8997)" class="st10 st4 st5">스카이풀</text>
-		<text id="sh1f107" transform="matrix(1 0 0 1 445.8953 343.2996)" class="st3 st4 st5">봄바쉑</text>
-		<text id="sh1f106" transform="matrix(1 0 0 1 510.615 524.8997)" class="st3 st4 st5">서비스 데스크</text>
-		<text id="shinhwa" transform="matrix(1 0 0 1 1031.4949 83.4998)" class="st3 st4 st5">신화관</text>
-		<text id="sh1f105" transform="matrix(1 0 0 1 594.4851 552.0999)"><tspan x="0" y="0" class="st3 st4 st5">피트니스</tspan><tspan x="10" y="14" class="st3 st4 st5">코너</tspan></text>
-		<text id="sh1f104" transform="matrix(1 0 0 1 600.4949 464.0996)" class="st3 st4 st5">요가룸</text>
-		<text id="sh1f103" transform="matrix(1 0 0 1 606.4148 392.6997)" class="st3 st4 st5">프론트 데스크</text>
-		<text id="shlounge" transform="matrix(1 0 0 1 602.3748 301.2996)"><tspan x="0" y="0" class="st3 st4 st5">신화</tspan><tspan x="-4" y="14" class="st3 st4 st5">라운지</tspan></text>
-		<text id="sh1f101" transform="matrix(1 0 0 1 555.574 121.8997)"><tspan x="0" y="0" class="st3 st4 st5">신화 다이닝</tspan><tspan x="8" y="14" class="st3 st4 st5">&amp; 라운지</tspan></text>
-		<text id="lobbysh1f" transform="matrix(1 0 0 1 696.0945 332.4998)"><tspan x="0" y="0" class="st3 st4 st5">신화관</tspan><tspan x="0" y="14" class="st3 st4 st5">리조트</tspan></text>
+		<text id="sh1f112" text-anchor="middle" transform="matrix(1 0 0 1 202 690)" class="st3 st4 st5">사우나</text>
+		<text id="sh1f111" text-anchor="middle" transform="matrix(1 0 0 1 263 690)" class="st3 st4 st5">샤워실</text>
+		<text id="sh1f108" text-anchor="middle" transform="matrix(1 0 0 1 424 662)" class="st3 st4 st5">바온탑</text>
+		<text id="sh1f113" text-anchor="middle" transform="matrix(1 0 0 1 344 544)" class="st10 st4 st5">스카이풀</text>
+		<text id="sh1f107" text-anchor="middle" transform="matrix(1 0 0 1 462 343)" class="st3 st4 st5">봄바쉑</text>
+		<text id="sh1f106" text-anchor="middle" transform="matrix(1 0 0 1 547 526)" class="st3 st4 st5">서비스 데스크</text>
+		<text id="shinhwa" text-anchor="middle" transform="matrix(1 0 0 1 1040 83)" class="st3 st4 st5">신화관</text>
+		<text id="sh1f105" text-anchor="middle" transform="matrix(1 0 0 1 618 552)"><tspan x="0" y="0" class="st3 st4 st5">피트니스</tspan><tspan x="0" y="14" class="st3 st4 st5">코너</tspan></text>
+		<text id="sh1f104" text-anchor="middle" transform="matrix(1 0 0 1 618 464)" class="st3 st4 st5">요가룸</text>
+		<text id="sh1f103" text-anchor="middle" transform="matrix(1 0 0 1 646 392)" class="st3 st4 st5">프론트 데스크</text>
+		<text id="shlounge" text-anchor="middle" transform="matrix(1 0 0 1 616 304)"><tspan x="0" y="0" class="st3 st4 st5">신화</tspan><tspan x="0" y="14" class="st3 st4 st5">라운지</tspan></text>
+		<text id="sh1f101" text-anchor="middle" transform="matrix(1 0 0 1 588 116)"><tspan x="0" y="0" class="st3 st4 st5">신화 다이닝</tspan><tspan x="0" y="14" class="st3 st4 st5">&amp; 라운지</tspan></text>
+		<text id="lobbysh1f" text-anchor="middle" transform="matrix(1 0 0 1 710 332)"><tspan x="0" y="0" class="st3 st4 st5">신화관</tspan><tspan x="0" y="14" class="st3 st4 st5">리조트</tspan></text>
 	</g>
 	<g id="Portals">
 		<line id="Elev.4.floor0_2_" class="st16" x1="467" y1="555" x2="474" y2="548"/>

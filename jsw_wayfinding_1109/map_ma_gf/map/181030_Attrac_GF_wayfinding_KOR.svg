@@ -360,24 +360,24 @@
 		</a>
 	</g>
 	<g id="SpotnameGF" class="spotname">
-		<text id="ygrp101" transform="matrix(1 0 0 1 751.2111 281.2996)" class="st2 st4 st5">언타이틀드, 2017</text>
-		<text id="ygrp107" transform="matrix(1 0 0 1 969.0344 359.8997)" class="st2 st4 st5">한라원</text>
-		<text id="ygrp108" transform="matrix(1 0 0 1 1097.2141 378.0994)" class="st2 st4 st5">이니스프리</text>
-		<text id="ygrp109" transform="matrix(1 0 0 1 1090.1721 434.0994)" class="st2 st4 st5">GS 25</text>
-		<text id="ygrp110" transform="matrix(1 0 0 1 993.5646 548.4998)" class="st2 st4 st5">재복헌 훠궈</text>
-		<text id="ygrp106" transform="matrix(1 0 0 1 920.4245 429.8997)"><tspan x="0" y="0" class="st2 st4 st5">아오리의</tspan><tspan x="0" y="14" class="st2 st4 st5">행방불명</tspan></text>
-		<text id="ygrp103" transform="matrix(1 0 0 1 642.5549 499.5994)" class="st2 st4 st5">삼거리 푸줏간</text>
-		<text id="ygrp104" transform="matrix(1 0 0 1 782.5749 499.5994)" class="st2 st4 st5">쓰리 버즈</text>
-		<text id="ygrp105" transform="matrix(1 0 0 1 722.0148 625.0994)" class="st2 st4 st5">제주삼거리</text>
-		<text id="ygrp102" transform="matrix(1 0 0 1 477.4484 522.2996)" class="st2 st4 st5">AC.Ⅲ.T</text>
-		<text id="shpark101" transform="matrix(1 0 0 1 422.2951 42.8997)" class="st2 st4 st6 st7">신화테마파크</text>
-		<text id="shpark102" transform="matrix(1 0 0 1 818.4953 42.4998)" class="st8 st4 st6 st7">신화워터파크</text>
-		<text id="ygrepublic" transform="matrix(1 0 0 1 501.0827 296.2996)" class="st2 st4 st6 st7">YG 리퍼블릭</text>
-		<text id="ticketing" transform="matrix(1 0 0 1 566.5251 121.0331)" class="st2 st4 st5">매표소</text>
-		<text id="entrance" transform="matrix(1 0 0 1 410.2804 99.1495)" class="st2 st4 st5">입구</text>
-		<text id="entrance" transform="matrix(1 0 0 1 826.6394 89.9031)" class="st2 st4 st5">입구</text>
-		<text id="joanteddy" transform="matrix(1 0 0 1 940.5521 83.676)"><tspan x="0" y="0" class="st2 st4 st5">조안</tspan><tspan x="-10" y="14" class="st2 st4 st5">테디베어</tspan></text>
-		<text id="ygrp111" transform="matrix(1 0 0 1 334.0148 656.2996)" class="st2 st4 st5">제주렌트카</text>
+		<text id="ygrp101" text-anchor="middle" transform="matrix(1 0 0 1 790 281)" class="st2 st4 st5">언타이틀드, 2017</text>
+		<text id="ygrp107" text-anchor="middle" transform="matrix(1 0 0 1 985 359)" class="st2 st4 st5">한라원</text>
+		<text id="ygrp108" text-anchor="middle" transform="matrix(1 0 0 1 1125 378)" class="st2 st4 st5">이니스프리</text>
+		<text id="ygrp109" text-anchor="middle" transform="matrix(1 0 0 1 1105 434)" class="st2 st4 st5">GS 25</text>
+		<text id="ygrp110" text-anchor="middle" transform="matrix(1 0 0 1 1020 548)" class="st2 st4 st5">재복헌 훠궈</text>
+		<text id="ygrp106" text-anchor="middle" transform="matrix(1 0 0 1 940 429)"><tspan x="0" y="0" class="st2 st4 st5">아오리의</tspan><tspan x="0" y="14" class="st2 st4 st5">행방불명</tspan></text>
+		<text id="ygrp103" text-anchor="middle" transform="matrix(1 0 0 1 672 499)" class="st2 st4 st5">삼거리 푸줏간</text>
+		<text id="ygrp104" text-anchor="middle" transform="matrix(1 0 0 1 806 499)" class="st2 st4 st5">쓰리 버즈</text>
+		<text id="ygrp105" text-anchor="middle" transform="matrix(1 0 0 1 750 625)" class="st2 st4 st5">제주삼거리</text>
+		<text id="ygrp102" text-anchor="middle" transform="matrix(1 0 0 1 492 522)" class="st2 st4 st5">AC.Ⅲ.T</text>
+		<text id="shpark101" text-anchor="middle" transform="matrix(1 0 0 1 480 42)" class="st2 st4 st6 st7">신화테마파크</text>
+		<text id="shpark102" text-anchor="middle" transform="matrix(1 0 0 1 864 42)" class="st8 st4 st6 st7">신화워터파크</text>
+		<text id="ygrepublic" text-anchor="middle" transform="matrix(1 0 0 1 520 296)" class="st2 st4 st6 st7">YG 리퍼블릭</text>
+		<text id="ticketing" text-anchor="middle" transform="matrix(1 0 0 1 566 121)" class="st2 st4 st5">매표소</text>
+		<text id="entrance" text-anchor="middle" transform="matrix(1 0 0 1 422 99)" class="st2 st4 st5">입구</text>
+		<text id="entrance" text-anchor="middle" transform="matrix(1 0 0 1 836 89)" class="st2 st4 st5">입구</text>
+		<text id="joanteddy" text-anchor="middle" transform="matrix(1 0 0 1 950 83)"><tspan x="0" y="0" class="st2 st4 st5">조안</tspan><tspan x="0" y="14" class="st2 st4 st5">테디베어</tspan></text>
+		<text id="ygrp111" text-anchor="middle" transform="matrix(1 0 0 1 358 656)" class="st2 st4 st5">제주렌트카</text>
 	</g>
 	<g id="Portals">
 		<line id="Wayout.5.floorGfMa" class="st9" x1="1352" y1="292" x2="1359" y2="285"/>

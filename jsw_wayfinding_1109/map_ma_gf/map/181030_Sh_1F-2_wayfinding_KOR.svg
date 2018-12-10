@@ -198,9 +198,9 @@
 		</a>
 	</g>
 	<g id="Spotname1Fsh_2_" class="spotname">
-		<text id="shinhwa" transform="matrix(1 0 0 1 1031.4949 492.4998)" class="st4 st13 st14">신화관</text>
-		<text id="shlounge" transform="matrix(1 0 0 1 604.3748 710.2996)"><tspan x="0" y="0" class="st4 st13 st14">신화</tspan><tspan x="-4" y="14" class="st4 st13 st14">라운지</tspan></text>
-		<text id="sh1f101" transform="matrix(1 0 0 1 555.574 530.8997)" class="st4 st13 st14">신화 다이닝</text>
+		<text id="shinhwa" text-anchor="middle" transform="matrix(1 0 0 1 1050 492)" class="st4 st13 st14">신화관</text>
+		<text id="shlounge" text-anchor="middle" transform="matrix(1 0 0 1 616 710)"><tspan x="0" y="0" class="st4 st13 st14">신화</tspan><tspan x="0" y="14" class="st4 st13 st14">라운지</tspan></text>
+		<text id="sh1f101" text-anchor="middle" transform="matrix(1 0 0 1 588 530)" class="st4 st13 st14">신화 다이닝</text>
 	</g>
 	<g id="Doors">
 		<line id="jswpark06" class="st15" x1="1079" y1="138" x2="1086" y2="131"/>
