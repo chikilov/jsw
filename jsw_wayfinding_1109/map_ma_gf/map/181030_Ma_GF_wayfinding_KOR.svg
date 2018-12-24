@@ -297,12 +297,12 @@
 					C865,508.9,865.9,508.9,866.7,508.9z"/>
 			</g>
 		</a>
-		<a id="magf117" xlink:href="#">
+		<!-- <a id="magf117" xlink:href="#">
 			<g>
 				<path class="st1" d="M1151,258.1v35.8c8.7-8.4,22.1-13.2,42-15.2c3.3-0.3,5.7-3.1,5.7-6.4V253H1156
 					C1153.3,253,1151,255.3,1151,258.1z"/>
 			</g>
-		</a>
+		</a> //-->
 		<a id="shss115" xlink:href="#">
 			<g>
 				<path class="st1" d="M521.1,503.8c1.6,0.1,3.1,0.2,4.7,0.3c1,0.1,1.9,0.1,2.9,0.2c1.4,0.1,2.9,0.2,4.3,0.2
@@ -375,11 +375,11 @@
 		</a>
 		<path class="st1" d="M1303.2,200.8h31.8v-34.1c0-2.1-1.7-3.9-3.8-4c-10.2-0.6-21.2-1.1-33-1.7v34.8
 			C1298.2,198.6,1300.4,200.8,1303.2,200.8z"/>
-		<a id="shss106" xlink:href="#">
+		<!-- <a id="shss106" xlink:href="#">
 			<g>
 				<path class="st1" d="M537.4,277.9c0,3,1.8,5.7,4.6,6.9c10.9,4.4,40.4,14.7,78.4,15.7c4.8,0.1,9.4,0.1,14,0v-76.6h-97V277.9z"/>
 			</g>
-		</a>
+		</a> //-->
 		<a id="shss102" xlink:href="#">
 			<g>
 				<path class="st1" d="M328.3,170c-3.6,0.4-7.1,0.9-10.5,1.3V277c25.2-7,58.8-14.1,95.8-15.5V161.2
@@ -623,7 +623,7 @@
 			<text id="shss101" text-anchor="middle" transform="matrix(1 0 0 1 260 230)" class="st2 st11 st12">셀렉 더 테이블</text>
 			<text id="shss102" text-anchor="middle" transform="matrix(1 0 0 1 367 230)" class="st2 st11 st12">더 플레이스</text>
 			<text id="shss103" text-anchor="middle" transform="matrix(1 0 0 1 458 216)"><tspan x="0" y="0" class="st2 st11 st12">스타벅스</tspan><tspan x="0" y="14" class="st2 st11 st12">리저브</tspan></text>
-			<text id="shss106" text-anchor="middle" transform="matrix(1 0 0 1 606 255)"><tspan x="0" y="0" class="st2 st11 st12">브릴랑뜨</tspan><tspan x="0" y="14" class="st2 st11 st12">젬메</tspan></text>
+			<!-- <text id="shss106" text-anchor="middle" transform="matrix(1 0 0 1 606 255)"><tspan x="0" y="0" class="st2 st11 st12">브릴랑뜨</tspan><tspan x="0" y="14" class="st2 st11 st12">젬메</tspan></text> //-->
 			<text id="shss107" text-anchor="middle" transform="matrix(1 0 0 1 662 229)"><tspan x="0" y="0" class="st2 st11 st12">홍신</tspan><tspan x="0" y="14" class="st2 st11 st12">중식당</tspan></text>
 			<text id="shss108" text-anchor="middle" transform="matrix(1 0 0 1 712 229)"><tspan x="0" y="0" class="st2 st11 st12">데블스</tspan><tspan x="0" y="14" class="st2 st11 st12">도어</tspan></text>
 			<text id="shss109" text-anchor="middle" transform="matrix(1 0 0 1 784 228)"><tspan x="0" y="0" class="st2 st11 st12">제주관광공사</tspan><tspan x="0" y="14" class="st2 st11 st12">신화월드 면세점</tspan></text>
@@ -631,7 +631,7 @@
 			<text id="magf112" text-anchor="middle" transform="matrix(1 0 0 1 1028 219)" class="st2 st11 st12">르 쉬느아</text>
 			<text id="magf113" text-anchor="middle" transform="matrix(1 0 0 1 1124 196)" class="st2 st11 st12">데판야</text>
 			<text id="magf114" text-anchor="middle" transform="matrix(1 0 0 1 1178 185)"><tspan x="0" y="0" class="st2 st11 st12">濟州膳</tspan><tspan x="0" y="14" class="st2 st11 st12">제주 선</tspan></text>
-			<text id="magf117" text-anchor="middle" transform="matrix(1 0 0 1 1175 270)" class="st2 st11 st12">아델린</text>
+			<!-- <text id="magf117" text-anchor="middle" transform="matrix(1 0 0 1 1175 270)" class="st2 st11 st12">아델린</text> //-->
 			<text id="magf115" text-anchor="middle" transform="matrix(1 0 0 1 1254 174)" class="st2 st11 st12">신한은행</text>
 			<text id="shss112" text-anchor="middle" transform="matrix(1 0 0 1 962 414)" class="st2 st11 st12">프랭크 뮬러</text>
 			<text id="magf121" text-anchor="middle" transform="matrix(1 0 0 1 976 437)"><tspan x="0" y="0" class="st2 st11 st12">디자인</tspan><tspan x="0" y="14" class="st2 st11 st12">오키즘</tspan></text>
@@ -665,7 +665,7 @@
 		<line id="shss103" class="st15" x1="460" y1="254" x2="467" y2="247"/>
 		<line id="shss104" class="st15" x1="571" y1="195" x2="578" y2="188"/>
 		<line id="shss105" class="st15" x1="543" y1="261" x2="550" y2="254"/>
-		<line id="shss106" class="st15" x1="606" y1="290" x2="613" y2="283"/>
+		<!-- <line id="shss106" class="st15" x1="606" y1="290" x2="613" y2="283"/> //-->
 		<line id="shss107" class="st15" x1="661" y1="290" x2="668" y2="283"/>
 		<line id="shss108" class="st15" x1="714" y1="280" x2="721" y2="273"/>
 		<line id="shss109" class="st15" x1="788" y1="262" x2="795" y2="255"/>
@@ -676,7 +676,7 @@
 		<line id="magf114" class="st15" x1="1178" y1="201" x2="1185" y2="194"/>
 		<line id="magf116" class="st15" x1="1245" y1="217" x2="1252" y2="210"/>
 		<line id="magf115" class="st15" x1="1267" y1="187" x2="1274" y2="180"/>
-		<line id="magf117" class="st15" x1="1171" y1="265" x2="1178" y2="258"/>
+		<!-- <line id="magf117" class="st15" x1="1171" y1="265" x2="1178" y2="258"/> //-->
 		<line id="magf119" class="st15" x1="1051" y1="341" x2="1058" y2="334"/>
 		<line id="magf118" class="st15" x1="1073" y1="482" x2="1080" y2="475"/>
 		<line id="magf122" class="st15" x1="988" y1="493" x2="995" y2="486"/>
