@@ -269,7 +269,7 @@
 				c16-11.9,50.4-40.6,76.3-83.9L935.3,376L935.3,376z"/>
 		</g>
 		</a>
-		<a id="ygrp105" xlink:href="#">
+		<!-- <a id="ygrp105" xlink:href="#">
 		<g>
 			<path class="st1" d="M612.4,674.8c-1.9,0-3.6-0.7-4.9-2.1c-1.3-1.3-2-3.1-1.9-4.9l0.1-91.6c0.1-3.7,3.1-6.5,6.8-6.5l0.2,0
 				c25.9,0.7,114.4,3.2,166.9,3.7c1.3,0,2.5,0,3.8,0c50.5,0,89.8-9,97.1-10.8c0.5-0.1,1.1-0.2,1.6-0.2c3.2,0,6,2.3,6.6,5.4
@@ -281,7 +281,7 @@
 				c-4.2,0-7.6,3.3-7.8,7.5l-0.1,91.6c-0.1,4.4,3.4,8,7.8,8h269.5c3,0,5.8-1.8,7.1-4.5l14.6-31.5c0.7-1.5,0.9-3.3,0.5-4.9
 				l-14.4-67.4C888.9,563.8,885.6,561.3,882,561.3L882,561.3z"/>
 		</g>
-		</a>
+		</a> //-->
 		<a id="ygrp101" xlink:href="#">
 		<g>
 			<path class="st1" d="M780.4,408.7c-1.8,0-3.5,0-5.2-0.1c-1.1,0-2.1-0.5-2.8-1.4c-0.7-0.8-1-1.9-0.8-3l11.7-74.5
@@ -368,7 +368,7 @@
 		<text id="ygrp106" text-anchor="middle" transform="matrix(1 0 0 1 940 429)"><tspan x="0" y="0" class="st2 st4 st5">아오리의</tspan><tspan x="0" y="14" class="st2 st4 st5">행방불명</tspan></text>
 		<text id="ygrp103" text-anchor="middle" transform="matrix(1 0 0 1 672 499)" class="st2 st4 st5">삼거리 푸줏간</text>
 		<text id="ygrp104" text-anchor="middle" transform="matrix(1 0 0 1 806 499)" class="st2 st4 st5">쓰리 버즈</text>
-		<text id="ygrp105" text-anchor="middle" transform="matrix(1 0 0 1 750 625)" class="st2 st4 st5">제주삼거리</text>
+		<!-- <text id="ygrp105" text-anchor="middle" transform="matrix(1 0 0 1 750 625)" class="st2 st4 st5">제주삼거리</text> //-->
 		<text id="ygrp102" text-anchor="middle" transform="matrix(1 0 0 1 492 522)" class="st2 st4 st5">AC.Ⅲ.T</text>
 		<text id="shpark101" text-anchor="middle" transform="matrix(1 0 0 1 480 42)" class="st2 st4 st6 st7">신화테마파크</text>
 		<text id="shpark102" text-anchor="middle" transform="matrix(1 0 0 1 864 42)" class="st8 st4 st6 st7">신화워터파크</text>
@@ -388,7 +388,7 @@
 		<line id="ygrp108" class="st10" x1="1095" y1="366" x2="1102" y2="359"/>
 		<line id="ygrp109" class="st10" x1="1079" y1="419" x2="1086" y2="412"/>
 		<line id="ygrp110" class="st10" x1="993" y1="529" x2="1000" y2="522"/>
-		<line id="ygrp105" class="st10" x1="745" y1="592" x2="752" y2="585"/>
+		<!-- <line id="ygrp105" class="st10" x1="745" y1="592" x2="752" y2="585"/> //-->
 		<line id="ygrp102" class="st10" x1="519" y1="546" x2="526" y2="539"/>
 		<line id="ygrp111" class="st10" x1="354" y1="652" x2="361" y2="645"/>
 		<line id="ygrp103" class="st10" x1="671" y1="482" x2="678" y2="475"/>
