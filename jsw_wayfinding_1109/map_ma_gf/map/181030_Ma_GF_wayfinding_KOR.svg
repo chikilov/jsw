@@ -610,6 +610,9 @@
 				<image style="overflow:visible;enable-background;" width="40" height="76" class="i_stairs" id="stairs_x5F_off_8_" xlink:href="./images/2x/stairs_off@2x.png"  transform="matrix(0.5 0 0 0.5 822.6 413)"></image>
 			</g>
 		</g>
+		<g id="Icon" class="icon">
+			<image width="32" height="32" xlink:href="./images/icon/restaurant.svg"  transform="matrix(1 0 0 1 642 400)">크랩통</image>
+		</g>
 		<g id="Spotname" class="spotname">
 			<text id="shss115" text-anchor="middle" transform="matrix(1 0 0 1 658 447)" class="st2 st11 st12">크랩통</text>
 			<text id="shss122" text-anchor="middle" transform="matrix(1 0 0 1 776 448)"><tspan x="0" y="0" class="st2 st11 st12">제주관광공사</tspan><tspan x="0" y="14" class="st2 st11 st12">신화월드 면세점</tspan></text>
