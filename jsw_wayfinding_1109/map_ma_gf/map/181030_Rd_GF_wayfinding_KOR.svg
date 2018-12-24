@@ -276,9 +276,10 @@
 			</g>
 			<g>
 				<g>
-					<path class="st1" d="M375.6,636.8c-2.8,0-5-2.2-5-4.9v-37.1h142v42H375.6z"/>
-					<path class="st2" d="M511.6,595.8v40h-136c-2.2,0-4-1.8-4-3.9v-36.1H511.6 M513.6,593.8h-144v38.1c0,3.3,2.7,5.9,6,5.9h138
-						V593.8L513.6,593.8z"/>
+					<path class="st1" d="M274.1,594.8v44.7c0,3.9,3.1,7,7,7h42.2c0,0,12.4,1.7,23.7,16.2c11.3,14.5,24.6,12.6,24.6,12.6h141v-80.5 H274.1z"/>
+					<path class="st2" d="M369.9,676.4c-1.5,0-3.8-0.2-6.6-1c-4.5-1.2-11.1-4.4-17.1-12.1c-10.5-13.5-22.1-15.7-23-15.8h-42.1
+					c-4.4,0-8-3.6-8-8v-45.7h240.5v82.5H371.7C371.5,676.3,370.8,676.4,369.9,676.4z M275.1,595.8v43.7c0,3.3,2.7,6,6,6l42.3,0
+					c0.5,0.1,13,1.9,24.4,16.6c10.8,13.9,23.5,12.2,23.7,12.2l0.1,0h140v-78.5H275.1z"/>
 				</g>
 			</g>
 			<polyline class="st5" points="499.8,-190.8 499.8,-244.2 536.4,-244.2 536.4,-190.8 			"/>
@@ -494,7 +495,7 @@
 		</a>
 		<a id="ldgf116" xlink:href="#">
 			<g>
-				<path class="st1" d="M371.6,595.8v36.1c0,2.2,1.8,3.9,4,3.9h136v-40H371.6z"/>
+				<path class="st1" d="M508,643.7H286.3c-3.9,0-7-3.1-7-7v-40.3H508V643.7z"/>
 			</g>
 		</a>
 		<a id="ldgf110" xlink:href="#">
@@ -620,7 +621,7 @@
 			</g>
 			<text id="ldgf114" text-anchor="middle" transform="matrix(1 0 0 1 347 547)" class="st2 st11 st12">컨시어지</text>
 			<text id="ldgf115" text-anchor="middle" transform="matrix(1 0 0 1 425 547)" class="st2 st11 st12">프론트 데스크</text>
-			<text id="ldgf116" text-anchor="middle" transform="matrix(1 0 0 1 444 619)" class="st2 st11 st12">랜딩 라운지</text>
+			<text id="ldgf116" text-anchor="middle" transform="matrix(1 0 0 1 410 624)" class="st2 st11 st12">랜딩 라운지</text>
 			<text id="lobbyLdGf" text-anchor="middle" transform="matrix(1 0 0 1 380 579)" class="st2 st11 st12">랜딩관 로비</text>
 			<text id="ldgf111" text-anchor="middle" transform="matrix(1 0 0 1 227 320)"><tspan x="0" y="0" class="st2 st11 st12">한라룸</tspan><tspan x="0" y="14" class="st2 st11 st12">A</tspan></text>
 			<text id="ldgf112" text-anchor="middle" transform="matrix(1 0 0 1 271 320)"><tspan x="0" y="0" class="st2 st11 st12">한라룸</tspan><tspan x="0" y="14" class="st2 st11 st12">B</tspan></text>
