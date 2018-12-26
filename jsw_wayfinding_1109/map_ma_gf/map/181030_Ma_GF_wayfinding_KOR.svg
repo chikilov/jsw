@@ -611,7 +611,7 @@
 			</g>
 		</g>
 		<g id="Icon" class="icon">
-			<image width="28" height="28" xlink:href="./images/icon/restaurant.svg"  transform="matrix(1 0 0 1 642 400)">크랩통</image>
+			<!-- <image width="28" height="28" xlink:href="./images/icon/restaurant.svg"  transform="matrix(1 0 0 1 642 400)">크랩통</image> //-->
 		</g>
 		<g id="Spotname" class="spotname">
 			<text id="shss115" text-anchor="middle" transform="matrix(1 0 0 1 658 447)" class="st2 st11 st12">크랩통</text>
