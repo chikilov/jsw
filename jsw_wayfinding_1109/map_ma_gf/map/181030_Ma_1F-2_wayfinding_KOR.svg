@@ -283,7 +283,7 @@
 		<text id="landing" text-anchor="middle" transform="matrix(1 0 0 1 466 591)" class="st2 st10 st11">랜딩관</text>
 	</g>
 	<g id="SpotnameMOSIL" class="spotname">
-		<text id="sh1f112" text-anchor="middle" transform="matrix(1 0 0 1 898 377)" class="st9 st10 st11">사우나</text>
+		<text id="sauna" text-anchor="middle" transform="matrix(1 0 0 1 898 377)" class="st9 st10 st11">사우나</text>
 		<text id="ma1f104" text-anchor="middle" transform="matrix(1 0 0 1 800 317)" class="st9 st10 st11">모실 클럽 하우스</text>
 		<text id="mosil01" text-anchor="middle" transform="matrix(1 0 0 1 1002 448)" class="st9 st10 st11">스파</text>
 		<text id="mosil02" text-anchor="middle" transform="matrix(1 0 0 1 828 494)" class="st9 st10 st11">실내수영장</text>
