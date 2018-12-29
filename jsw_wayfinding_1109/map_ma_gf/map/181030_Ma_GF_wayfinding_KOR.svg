@@ -633,8 +633,13 @@
 			<text id="shss111" text-anchor="middle" transform="matrix(1 0 0 1 920 228)"><tspan x="0" y="0" class="st2 st11 st12">제주관광공사</tspan><tspan x="0" y="14" class="st2 st11 st12">신화월드 면세점</tspan></text>
 			<text id="magf112" text-anchor="middle" transform="matrix(1 0 0 1 1028 219)" class="st2 st11 st12">르 쉬느아</text>
 			<text id="magf113" text-anchor="middle" transform="matrix(1 0 0 1 1124 196)" class="st2 st11 st12">데판야</text>
+<<<<<<< HEAD
 			<text id="magf114" text-anchor="middle" transform="matrix(1 0 0 1 1178 185)"><tspan x="0" y="0" class="st2 st11 st12">濟州膳</tspan><tspan x="0" y="14" class="st2 st11 st12">제주 선</tspan></text>
 			<text id="magf117" text-anchor="middle" transform="matrix(1 0 0 1 1175 270)" class="st2 st11 st12">더 코브 </text>
+=======
+			<text id="magf114" text-anchor="middle" transform="matrix(1 0 0 1 1178 185)"><tspan x="0" y="0" class="st2 st11 st12">濟州膳</tspan><tspan x="0" y="14" class="st2 st11 st12">제주 선</tspan></text>	
+			<text id="magf117" text-anchor="middle" transform="matrix(1 0 0 1 1175 270)" class="st2 st11 st12">더 코브</text>
+>>>>>>> parent of 2c1795f... 코드 정리
 			<text id="magf115" text-anchor="middle" transform="matrix(1 0 0 1 1254 174)" class="st2 st11 st12">신한은행</text>
 			<text id="shss112" text-anchor="middle" transform="matrix(1 0 0 1 962 414)" class="st2 st11 st12">프랭크 뮬러</text>
 			<text id="magf121" text-anchor="middle" transform="matrix(1 0 0 1 976 437)"><tspan x="0" y="0" class="st2 st11 st12">디자인</tspan><tspan x="0" y="14" class="st2 st11 st12">오키즘</tspan></text>
