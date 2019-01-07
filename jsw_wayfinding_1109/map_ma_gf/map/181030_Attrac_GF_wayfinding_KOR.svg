@@ -16,6 +16,7 @@
 		#gfatr .st9{fill:none;stroke:#FF00FF;}
 		#gfatr .st10{fill:none;stroke:#00FF00;}
 		#gfatr .st11{fill:none;stroke:#EF405C;}
+		#gfatr .st12{font-size:18px;}
 	
 	</style>
 </defs>	
@@ -217,7 +218,7 @@
 				L1076.8,389.6z"/>
 		</g>
 		</a>
-		<a id="ygrp110" xlink:href="#">
+		<!-- <a id="ygrp110" xlink:href="#">
 		<g>
 			<path class="st1" d="M985.1,615.2c-2.5,0-4.8-1.4-6-3.6l-32.4-60.3c-0.9-1.6-1-3.4-0.5-5.2c0.5-1.7,1.7-3.2,3.3-4
 				c38.2-20.5,67-50.8,77.7-63c1.3-1.5,3.2-2.3,5.1-2.3c1.5,0,2.9,0.5,4,1.3l54.6,41.4c2.9,2.1,3.6,6.2,1.7,9.1
@@ -229,7 +230,7 @@
 				c1,0,2.1-0.2,3.1-0.7c18.5-8.1,71.6-34.6,105.2-86.2c2.2-3.4,1.4-8-1.9-10.5l-54.6-41.4C1035.6,476.3,1033.9,475.8,1032.3,475.8
 				L1032.3,475.8z"/>
 		</g>
-		</a>
+		</a> //-->
 		<a id="ygrp104" xlink:href="#">
 		<g>
 			<path class="st1" d="M742.1,533.3v-70.8c51.4-1.3,88.8-12.8,106.6-19.6c0.8-0.3,1.6-0.5,2.4-0.5c3.1,0,5.8,2.1,6.6,5.1l20.2,77.3
@@ -346,9 +347,9 @@
 		</a>
 		<a  id="shpark103" xlink:href="#">
 		<g>
-			<path class="st1" d="M918.6,108.4c-2.8,0-5-2.2-5-5V70c0-2.8,2.2-5,5-5l62.1,0c2.8,0,5,2.2,5,5v33.4c0,2.8-2.2,5-5,5H918.6z"/>
-			<path class="st2" d="M980.6,64v2c2.2,0,4,1.8,4,4v33.4c0,2.2-1.8,4-4,4l-62.1,0c-2.2,0-4-1.8-4-4V70c0-2.2,1.8-4,4-4l62.1,0V64
-				 M980.6,64l-62.1,0c-3.3,0-6,2.7-6,6v33.4c0,3.3,2.7,6,6,6l62.1,0c3.3,0,6-2.7,6-6V70C986.6,66.7,984,64,980.6,64L980.6,64z"/>
+			<path class="st1" d="M918.6,108.4c-2.8,0-5-2.2-5-5V70c0-2.8,2.2-5,5-5h62.1c2.8,0,5,2.2,5,5v33.4c0,2.8-2.2,5-5,5H918.6z"/>
+			<path class="st2" d="M969.4,64l11.2,2c2.2,0,4,1.8,4,4v33.4c0,2.2-1.8,4-4,4h-73.3c-2.2,0-4-1.8-4-4V70c0-2.2,1.8-4,4-4h73.3 L969.4,64 
+				M979.8,64h-72.4c-3.3,0-6,2.7-6,6v33.4c0,3.3,2.7,6,6,6h73.3c3.3,0,6-2.7,6-6V70C986.6,66.7,983.2,64,979.8,64L979.8,64 z"/>
 		</g>
 		</a>
 		<a id="ygrp111" xlink:href="#">
@@ -364,19 +365,19 @@
 		<text id="ygrp107" text-anchor="middle" transform="matrix(1 0 0 1 985 359)" class="st2 st4 st5">한라원</text>
 		<text id="ygrp108" text-anchor="middle" transform="matrix(1 0 0 1 1125 378)" class="st2 st4 st5">이니스프리</text>
 		<text id="ygrp109" text-anchor="middle" transform="matrix(1 0 0 1 1105 434)" class="st2 st4 st5">GS 25</text>
-		<text id="ygrp110" text-anchor="middle" transform="matrix(1 0 0 1 1020 548)" class="st2 st4 st5">재복헌 훠궈</text>
+		<!-- <text id="ygrp110" text-anchor="middle" transform="matrix(1 0 0 1 1020 548)" class="st2 st4 st5">재복헌 훠궈</text> //-->
 		<text id="ygrp106" text-anchor="middle" transform="matrix(1 0 0 1 940 429)"><tspan x="0" y="0" class="st2 st4 st5">아오리의</tspan><tspan x="0" y="14" class="st2 st4 st5">행방불명</tspan></text>
 		<text id="ygrp103" text-anchor="middle" transform="matrix(1 0 0 1 672 499)" class="st2 st4 st5">삼거리 푸줏간</text>
 		<text id="ygrp104" text-anchor="middle" transform="matrix(1 0 0 1 806 499)" class="st2 st4 st5">쓰리 버즈</text>
 		<!-- <text id="ygrp105" text-anchor="middle" transform="matrix(1 0 0 1 750 625)" class="st2 st4 st5">제주삼거리</text> //-->
 		<text id="ygrp102" text-anchor="middle" transform="matrix(1 0 0 1 492 522)" class="st2 st4 st5">AC.Ⅲ.T</text>
-		<text id="shpark101" text-anchor="middle" transform="matrix(1 0 0 1 480 42)" class="st2 st4 st6 st7">신화테마파크</text>
-		<text id="shpark102" text-anchor="middle" transform="matrix(1 0 0 1 864 42)" class="st8 st4 st6 st7">신화워터파크</text>
+		<text id="shpark101" text-anchor="middle" transform="matrix(1 0 0 1 480 42)" class="st2 st4 st12 st7">신화테마파크</text>
+		<text id="shpark102" text-anchor="middle" transform="matrix(1 0 0 1 864 42)" class="st8 st4 st12 st7">신화워터파크</text>
 		<text id="ygrepublic" text-anchor="middle" transform="matrix(1 0 0 1 520 296)" class="st2 st4 st6 st7">YG 리퍼블릭</text>
-		<text id="ticketing" text-anchor="middle" transform="matrix(1 0 0 1 566 121)" class="st2 st4 st5">매표소</text>
+		<text id="ticketing" text-anchor="middle" transform="matrix(1 0 0 1 580 121)" class="st2 st4 st5">매표소</text>
 		<text id="entrance" text-anchor="middle" transform="matrix(1 0 0 1 422 99)" class="st2 st4 st5">입구</text>
 		<text id="entrance" text-anchor="middle" transform="matrix(1 0 0 1 836 89)" class="st2 st4 st5">입구</text>
-		<text id="joanteddy" text-anchor="middle" transform="matrix(1 0 0 1 950 83)"><tspan x="0" y="0" class="st2 st4 st5">조안</tspan><tspan x="0" y="14" class="st2 st4 st5">테디베어</tspan></text>
+		<text id="joanteddy" text-anchor="middle" transform="matrix(1 0 0 1 944 83)"><tspan x="0" y="0" class="st2 st4 st5">조안</tspan><tspan x="0" y="14" class="st2 st4 st5">테디베어(2F)</tspan></text>
 		<text id="ygrp111" text-anchor="middle" transform="matrix(1 0 0 1 358 656)" class="st2 st4 st5">제주렌트카</text>
 	</g>
 	<g id="Portals">
@@ -388,7 +389,7 @@
 		<line id="ygrp108" class="st10" x1="1095" y1="366" x2="1102" y2="359"/>
 		<line id="ygrp109" class="st10" x1="1079" y1="419" x2="1086" y2="412"/>
 		<line id="ygrp110" class="st10" x1="993" y1="529" x2="1000" y2="522"/>
-		<!-- <line id="ygrp105" class="st10" x1="745" y1="592" x2="752" y2="585"/> //-->
+		<line id="ygrp105" class="st10" x1="745" y1="592" x2="752" y2="585"/>
 		<line id="ygrp102" class="st10" x1="519" y1="546" x2="526" y2="539"/>
 		<line id="ygrp111" class="st10" x1="354" y1="652" x2="361" y2="645"/>
 		<line id="ygrp103" class="st10" x1="671" y1="482" x2="678" y2="475"/>
