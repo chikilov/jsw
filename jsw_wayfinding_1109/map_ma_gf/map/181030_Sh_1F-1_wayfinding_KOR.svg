@@ -233,6 +233,7 @@
 					l-14.9-14.9C1384.4,194.4,1383.4,194,1382.3,194L1382.3,194z"/>
 			</g>
 		</g>
+        <line id="bartop_x5F_line" class="st8" x1="358.3" y1="632.1" x2="493.9" y2="632.1"/>
 	</g>
 	<g id="Rooms">
 		<a id="sh1f110" xlink:href="#" >
@@ -366,14 +367,14 @@
 			</g>
 		</a>
 		<a id="sh1f108" xlink:href="#" >
-			<rect x="362" y="632" class="st6" width="128" height="75.8"/>
+            <path class="st6" d="M359.3,633H493v72c0,2.2-1.8,4-4,4H359.3V633z"/>
 		</a>
 		<a id="sh1f111" xlink:href="#" >
-			<polygon class="st6" points="240,661.1 240,707 285,707 285,661 			"/>
+			<path class="st6" d="M237.9,659.5V709h49.5v-55.6C263.2,657.5,237.9,659.5,237.9,659.5z"/>
 		</a>
 		<a id="sh1f112" xlink:href="#" >
 			<g>
-				<polygon class="st6" points="168,665.1 168,707 234,707 234,665 				"/>
+				<path class="st6" d="M166.7,669.1l0,39.9h69.2v-49.2c-26.2,1.8-50.6,2.3-62.3,2.3C169.5,661.9,166.7,665.7,166.7,669.1z"/>
 			</g>
 		</a>
 		<a id="lobbysh1f" xlink:href="#" class="svg_lobby_mark">
@@ -408,7 +409,7 @@
 	<g id="Spotname1Fsh_2_" class="spotname">
 		<text id="sh1f112" text-anchor="middle" transform="matrix(1 0 0 1 202 690)" class="st3 st4 st5">사우나</text>
 		<text id="sh1f111" text-anchor="middle" transform="matrix(1 0 0 1 263 690)" class="st3 st4 st5">샤워실</text>
-		<text id="sh1f108" text-anchor="middle" transform="matrix(1 0 0 1 424 662)" class="st3 st4 st5">바온탑</text>
+		<text id="sh1f108" text-anchor="middle" transform="matrix(1 0 0 1 426 678)" class="st3 st4 st5">바온탑</text>
 		<text id="sh1f113" text-anchor="middle" transform="matrix(1 0 0 1 344 544)" class="st10 st4 st5">스카이풀</text>
 		<text id="sh1f107" text-anchor="middle" transform="matrix(1 0 0 1 462 343)" class="st3 st4 st5">봄바쉑</text>
 		<text id="sh1f106" text-anchor="middle" transform="matrix(1 0 0 1 547 526)" class="st3 st4 st5">서비스 데스크</text>
