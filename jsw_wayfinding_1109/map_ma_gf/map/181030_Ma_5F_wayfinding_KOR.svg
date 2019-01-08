@@ -972,10 +972,10 @@
 		</g>
 	</g>
 	<g id="SpotnameSide" class="spotname">
-		<text id="ma5f101" text-anchor="middle" transform="matrix(1 0 0 1 360 110)" class="st2 st4 st5">신화관</text>
-		<text id="ma5f101" text-anchor="middle" transform="matrix(1 0 0 1 360 630)" class="st2 st4 st5">랜당관</text>
-		<text id="ma5f101" text-anchor="middle" transform="matrix(1 0 0 1 835 100)" class="st2 st4 st5">메리어트관</text>
-		<text id="ma5f101" text-anchor="middle" transform="matrix(1 0 0 1 835 640)" class="st2 st4 st5">메리어트관</text>
+		<text id="shinhwa" text-anchor="middle" transform="matrix(1 0 0 1 360 110)" class="st2 st4 st5">신화관</text>
+		<text id="landing" text-anchor="middle" transform="matrix(1 0 0 1 360 630)" class="st2 st4 st5">랜당관</text>
+		<text id="mariott" text-anchor="middle" transform="matrix(1 0 0 1 835 100)" class="st2 st4 st5">메리어트관</text>
+		<text id="mariott" text-anchor="middle" transform="matrix(1 0 0 1 835 640)" class="st2 st4 st5">메리어트관</text>
 	</g>
 	<g id="SpotnameGFbg" class="spotname">
 		<text id="foodavenue" text-anchor="middle" transform="matrix(1 0 0 1 440 376)" class="st9 st30 st31">푸드에비뉴(GF)</text>

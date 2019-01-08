@@ -9,7 +9,7 @@
 	#gfSms .st3{font-family:'NotoSans';}
 	#gfSms .st4{font-size:9px;}
 	#gfSms .st5{font-size:5.5px;}
-	#gfSms .st6{fill:#EAEAEA;}
+	#gfSms .st6{fill:#DDDDDD;}
 	#gfSms .st7{fill:#A5855B;}
 	#gfSms .st8{font-size:12px;}
 	#gfSms .st9{fill:none;stroke:#A5855B;stroke-miterlimit:10;}
@@ -21,6 +21,7 @@
 	#gfSms .st15{fill:none;stroke:#FF00FF;}
 	#gfSms .st16{fill:none;stroke:#00FF00;}
 	#gfSms .st17{fill:none;stroke:#EF405C;}
+	#gfSms .st18{opacity:0.7;fill:#DDDDDD;enable-background:new;}
 </style>
 <g id="BGColor">
 	<g>
@@ -1180,7 +1181,7 @@
 					l3-5.5l25.9,14.5l2.3-4.1l4.1,2.3l5.3-9.5l-4.1-2.3l2.3-4.1l-25.9-14.5l9.1-16.4L711.6,723.4L711.6,723.4z"/>
 			</g>
 			<g>
-				<path class="st1" d="M242.3,447.2l6.9-43.4L263,406h0.1c0.2,0,0.5-0.2,0.5-0.4l1-6.4c0-0.1,0-0.3-0.1-0.4L236,359.5l18.4-13.4
+				<path class="st18" d="M242.3,447.2l6.9-43.4L263,406h0.1c0.2,0,0.5-0.2,0.5-0.4l1-6.4c0-0.1,0-0.3-0.1-0.4L236,359.5l18.4-13.4
 					l16.6,23c0.1,0.1,0.3,0.2,0.4,0.2s0.2,0,0.3-0.1l3.2-2.3l18,24.9l-3.2,2.3c-0.1,0.1-0.2,0.2-0.2,0.3s0,0.3,0.1,0.4l6.7,9.1
 					l-4.5,28.4l-36.6-5.9h-0.1c-0.1,0-0.2,0-0.3,0.1s-0.2,0.2-0.2,0.3l-3.5,21.7L242.3,447.2z"/>
 				<g>
@@ -1461,6 +1462,7 @@
 		</g>
 		<text id="jpterrace01" text-anchor="middle" transform="matrix(0.7 -0.7 0.7 0.7 537 400)" class="st7 st3 st13">CU 편의점</text>
 		<text id="jpterrace02" text-anchor="middle" transform="matrix(0.7 -0.7 0.7 0.7 559 378)" class="st7 st3 st13">파리바게트</text>
+		<text id="dormitory01" text-anchor="middle" transform="matrix(0.7 0.7 -0.7 0.7 324 352)" class="st7 st3 st8">아트 갤러리</text>
 		<text id="dormitory01" text-anchor="middle" transform="matrix(0.7 0.7 -0.7 0.7 368 390)" class="st7 st3 st14">웨스트 힐</text>
 		<text id="dormitory02" text-anchor="middle" transform="matrix(0.7 0.7 -0.7 0.7 390 410)" class="st7 st3 st14">BHC</text>
 		<g>
