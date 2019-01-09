@@ -592,6 +592,8 @@
                 <path class="st1" d="M1150,150.2c-2.8,0-5-2.2-5-5v-30c0-2.8,2.2-5,5-5h30c2.8,0,5,2.2,5,5v30c0,2.8-2.2,5-5,5H1150z"/>
                 <path class="st2" d="M1180,111.2c2.2,0,4,1.8,4,4v30c0,2.2-1.8,4-4,4h-30c-2.2,0-4-1.8-4-4v-30c0-2.2,1.8-4,4-4H1180        M1180,109.2h-30c-3.3,0-6,2.7-6,6v30c0,3.3,2.7,6,6,6h30c3.3,0,6-2.7,6-6v-30C1186,111.9,1183.3,109.2,1180,109.2L1180,109.2z       "/>
             </g>
+        <image style="overflow:visible;enable-background;" width="76" height="76" class="i_elevator" id="elevator_x5F_off" xlink:href="./images/2x/elevator_off@2x.png"  transform="matrix(0.5 0 0 0.5 1146 111)">
+        </image>
         </g>
     </g>
     <g id="Exit_14">
@@ -600,6 +602,8 @@
                 <path class="st6" d="M539.6,127.9c-2.8,0-5-2.2-5-5v-30c0-2.8,2.2-5,5-5h12c2.8,0,5,2.2,5,5v30c0,2.8-2.2,5-5,5H539.6z"/>
                 <path class="st2" d="M551.6,88.9c2.2,0,4,1.8,4,4v30c0,2.2-1.8,4-4,4h-12c-2.2,0-4-1.8-4-4v-30c0-2.2,1.8-4,4-4H551.6       M551.6,86.9h-12c-3.3,0-6,2.7-6,6v30c0,3.3,2.7,6,6,6h12c3.3,0,6-2.7,6-6v-30C557.6,89.6,554.9,86.9,551.6,86.9L551.6,86.9z"/>
             </g>
+        <image style="overflow:visible;enable-background:new;" width="40" height="76" id="stairs_x5F_off_8_" xlink:href="./images/2x/stairs_off@2x.png" class="i_stairs"  transform="matrix(0.5 0 0 0.5 535.5 88.5)">
+        </image>
         </g>
     </g>
     <a id="shss114" xlink:href="#">
@@ -608,6 +612,8 @@
                 <path class="st6" d="M808.6,160c-2.8,0-5-2.2-5-5v-30c0-2.8,2.2-5,5-5h30c2.8,0,5,2.2,5,5v30c0,2.8-2.2,5-5,5H808.6z"/>
                 <path class="st2" d="M838.6,121c2.2,0,4,1.8,4,4v30c0,2.2-1.8,4-4,4h-30c-2.2,0-4-1.8-4-4v-30c0-2.2,1.8-4,4-4H838.6        M838.6,119h-30c-3.3,0-6,2.7-6,6v30c0,3.3,2.7,6,6,6h30c3.3,0,6-2.7,6-6v-30C844.6,121.7,841.9,119,838.6,119L838.6,119z"/>
             </g>
+            <image style="overflow:visible;enable-background;" width="76" height="76"  class="i_toilet" id="toilet_x5F_off_3" xlink:href="./images/2x/toilet_off@2x.png"  transform="matrix(0.5 0 0 0.5 804.6 120.9)">
+            </image>
         </g>
     </a>
     <g id="Exit_10">
@@ -615,7 +621,7 @@
             <path class="st6" d="M826.6,102.2c-2.8,0-5-2.2-5-5v-30c0-2.8,2.2-5,5-5h12c2.8,0,5,2.2,5,5v30c0,2.8-2.2,5-5,5H826.6z"/>
             <path class="st2" d="M838.6,63.2c2.2,0,4,1.8,4,4v30c0,2.2-1.8,4-4,4h-12c-2.2,0-4-1.8-4-4v-30c0-2.2,1.8-4,4-4L838.6,63.2       M838.6,61.2h-12c-3.3,0-6,2.7-6,6v30c0,3.3,2.7,6,6,6h12c3.3,0,6-2.7,6-6v-30C844.6,63.9,841.9,61.2,838.6,61.2L838.6,61.2z"/>
         </g>
-        <image style="overflow:visible;enable-background:new;" width="40" height="76" id="stairs_x5F_off_8_" xlink:href="./images/2x/stairs_off@2x.png" class="i_stairs"  transform="matrix(0.5 0 0 0.5 535.5 88.5)">
+        <image style="overflow:visible;enable-background:new;" width="40" height="76" id="stairs_x5F_off_8_" xlink:href="./images/2x/stairs_off@2x.png" class="i_stairs"  transform="matrix(0.5 0 0 0.5 822.5 63)">
         </image>
     </g>
     <a id="magf122" xlink:href="#">
@@ -623,6 +629,8 @@
             <path class="st6" d="M965.8,156.9c-2.8,0-5-2.2-5-5v-30c0-2.8,2.2-5,5-5h30c2.8,0,5,2.2,5,5v30c0,2.8-2.2,5-5,5H965.8z"/>
             <path class="st2" d="M995.8,117.9c2.2,0,4,1.8,4,4v30c0,2.2-1.8,4-4,4h-30c-2.2,0-4-1.8-4-4v-30c0-2.2,1.8-4,4-4H995.8         M995.8,115.9h-30c-3.3,0-6,2.7-6,6v30c0,3.3,2.7,6,6,6h30c3.3,0,6-2.7,6-6v-30C1001.8,118.6,999.1,115.9,995.8,115.9        L995.8,115.9z"/>
         </g>
+        <image style="overflow: visible; pointer-events: auto;" width="76" height="76" class="i_hospi" id="hospi_x5F_off" xlink:href="./images/2x/hospi_off@2x.png" transform="matrix(0.5 0 0 0.5 962 117.7)">
+        </image>
     </a>
     <line id="ma_x5F_line" class="st4" x1="723" y1="31.6" x2="723" y2="161.6"/>
 	<g>
@@ -789,7 +797,7 @@
 		<line id="ldgf119" class="st15" x1="519" y1="508" x2="526" y2="501"/>
 		<line id="ldgf120" class="st15" x1="542" y1="599" x2="549" y2="592"/>
 	</g>
-<!--	<g id="Paths">
+	<g id="Paths">
 		<line class="st16" x1="496" y1="245" x2="496" y2="145"/>
 		<line class="st16" x1="496" y1="281" x2="496" y2="245"/>
 		<line class="st16" x1="496" y1="338" x2="496" y2="281"/>
@@ -861,6 +869,6 @@
 		<line class="st16" x1="459" y1="245" x2="496" y2="245"/>
 		<line class="st16" x1="403" y1="281" x2="496" y2="281"/>
 		<line class="st16" x1="169" y1="482" x2="208" y2="453"/>
-	</g>-->
+	</g>
 </g>
 </svg>
