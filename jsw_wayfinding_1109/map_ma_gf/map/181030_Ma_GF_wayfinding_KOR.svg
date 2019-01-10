@@ -249,6 +249,15 @@
 				<image style="overflow:visible;enable-background;" width="76" height="76" class="i_escal" id="escal_x5F_off_4_" xlink:href="./images/2x/escal_off@2x.png"  transform="matrix(0.5 0 0 0.5 1109.1 314.7)">
 			</image>
 		</g>
+        <g id="Elevator_4">
+			<g>
+				<path class="st6" d="M541.4,145.8c-2.8,0-5-2.2-5-5v-30c0-2.8,2.2-5,5-5h30c2.8,0,5,2.2,5,5v30c0,2.8-2.2,5-5,5H541.4z"/>
+				<path class="st2" d="M571.4,106.8c2.2,0,4,1.8,4,4v30c0,2.2-1.8,4-4,4h-30c-2.2,0-4-1.8-4-4v-30c0-2.2,1.8-4,4-4H571.4 M571.4,104.8h-30c-3.3,0-6,2.7-6,6v30c0,3.3,2.7,6,6,6h30c3.3,0,6-2.7,6-6v-30C577.4,107.5,574.7,104.8,571.4,104.8 L571.4,104.8z"/>
+			</g>
+			
+            <image style="overflow:visible;enable-background;" width="76" height="76" class="i_elevator" id="elevator_x5F_off_4_" xlink:href="./images/2x/elevator_off@2x.png"  transform="matrix(0.5 0 0 0.5 537.3 107)">
+			</image>
+		</g>
 	</g>
 	<g id="Rooms">
 		<a id="lobbyMaGf" xlink:href="#" class="svg_lobby_mark">
@@ -644,7 +653,7 @@
 		<line id="Wayout.1.floorGfZOM" class="st14" x1="34" y1="341" x2="41" y2="334"/>
 		<line id="Wayout.2.floorGfLd" class="st14" x1="141" y1="523" x2="148" y2="516"/>
 		<line id="Wayout.3.floorGfLd" class="st14" x1="489" y1="523" x2="496" y2="516"/>
-		<line id="Wayout.4.floorShF100" class="st14" x1="518" y1="109" x2="525" y2="102"/>
+		<line id="Wayout.4.floorShF100" class="st14" x1="543" y1="127" x2="550" y2="120"/>
 		<line id="Wayout.5.floorGfAtr" class="st14" x1="34" y1="341" x2="41" y2="334"/>
 		<line id="Stair.1.floorLGFMa" class="st14" x1="1114" y1="334" x2="1121" y2="327"/>
 		<line id="Stair.2.floorMaF100" class="st14" x1="1114" y1="334" x2="1121" y2="327"/>
@@ -805,7 +814,8 @@
 		<path class="st16" d="M148,516"/>
 		<path class="st16" d="M148,516"/>
 		<line class="st16" x1="126" y1="334" x2="156" y2="374"/>
-		<line class="st16" x1="518" y1="177" x2="518" y2="109"/>
+		<line class="st16" x1="518" y1="177" x2="518" y2="127"/>
+        <line class="st16" x1="518" y1="127" x2="543" y2="127"/>
         <line class="st16" x1="1223" y1="172" x2="1223" y2="206"/>
         <line class="st16" x1="1223" y1="206" x2="1242" y2="206"/>
 	</g>
