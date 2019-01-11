@@ -488,7 +488,7 @@
 			<path class="st1" d="M444.4,505.4v74c0,2.2-1.8,4-4,4h-18c-2.2,0-4-1.8-4-4v-74L444.4,505.4"/>
 		</g>
         </a>
-        <a id="ldgf109" xlink:href="#">
+        <a id="ldgf109a" xlink:href="#">
 		<g>
 			<path class="st1" d="M472.4,505.4v74c0,2.2-1.8,4-4,4h-18c-2.2,0-4-1.8-4-4v-74L472.4,505.4"/>
 		</g>
@@ -939,7 +939,7 @@
             <text id="ldgf108" text-anchor="middle" transform="matrix(1 0 0 1 431 542)" class="st2 st11 st19">성산룸</text>
         </g>
         <g>
-            <text id="ldgf109a" text-anchor="middle" transform="matrix(1 0 0 1 459 542)" class="st2 st11 st19">안덕룸</text>
+            <text id="ldgf109" text-anchor="middle" transform="matrix(1 0 0 1 459 542)" class="st2 st11 st19">안덕룸</text>
         </g>
         <text id="ldgf111" text-anchor="middle" transform="matrix(1 0 0 1 227 670)"><tspan x="0" y="0" class="st2 st11 st12">한라룸</tspan><tspan x="0" y="14" class="st2 st11 st12">A</tspan></text>
         <text id="ldgf112" text-anchor="middle" transform="matrix(1 0 0 1 271 670)"><tspan x="0" y="0" class="st2 st11 st12">한라룸</tspan><tspan x="0" y="14" class="st2 st11 st12">B</tspan></text>
