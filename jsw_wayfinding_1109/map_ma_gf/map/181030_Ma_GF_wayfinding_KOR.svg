@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1400 730" style="enable-background:new 0 0 1400 730;" xml:space="preserve" width="1400px" height="730px" id="gfma">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 100 1400 730" style="enable-background:new 0 0 1400 730;" xml:space="preserve" width="1400px" height="730px" id="gfma">
 <defs>
 	<style type="text/css">
 		#gfma .st0{fill:#CBD5DD;}
@@ -22,10 +22,11 @@
 		#gfma .st16{fill:none;stroke:#EF405C;}
         #gfma .st17{fill:#C9CDD1;}
         #gfma .st18{fill:#C9CDD1;stroke:#A5855B;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+        #gfma .st19{font-size:12px; glyph-orientation-vertical:0; writing-mode:tb;}
 </style>
 </defs>
 <g id="BG">
-	<rect class="st0" width="1400" height="730"/>
+	<rect class="st0" y="100" width="1400" height="730"/>
 </g>
 <g id="GF">
 	<g id="Base">
@@ -258,6 +259,225 @@
             <image style="overflow:visible;enable-background;" width="76" height="76" class="i_elevator" id="elevator_x5F_off_4_" xlink:href="./images/2x/elevator_off@2x.png"  transform="matrix(0.5 0 0 0.5 537.3 107)">
 			</image>
 		</g>
+	</g>
+    <g id="addspot">
+		<g>
+			<path class="st1" d="M283.1,878.2c-2.9,0-5.5-1.7-6.7-4.3c-10.3-22.9-48.9-101.4-114.5-152.1c-1.8-1.4-2.9-3.6-2.9-5.9v-68.7
+				c0-2.7,2.2-5,5-5h310c3.8,0,7,3.3,7,7.4v221.3c0,4.1-3.1,7.4-7,7.4H283.1V878.2z"/>
+			<g>
+				<path class="st2" d="M474,643.2c3.3,0,6,2.9,6,6.4v221.3c0,3.5-2.7,6.4-6,6.4H283c-2.5,0-4.8-1.5-5.8-3.8
+					c-10.3-22.9-49-101.6-114.8-152.5c-1.5-1.2-2.5-3.1-2.5-5.1v-68.7c0-2.2,1.8-4,4-4H474 M474,641.2H164c-3.3,0-6,2.7-6,6v68.7
+					c0,2.6,1.2,5.1,3.2,6.7c66.1,51,104.9,131.1,114.2,151.7c1.4,3,4.3,4.9,7.6,4.9h191c4.4,0,8-3.7,8-8.4V649.6
+					C482,644.9,478.4,641.2,474,641.2L474,641.2z"/>
+			</g>
+		</g>
+		<g>
+			<path class="st1" d="M164.4,584.4c-2.8,0-5-2.2-5-5v-70c0-2.8,2.2-5,5-5h85v75c0,2.8-2.2,5-5,5H164.4z"/>
+			<path class="st2" d="M248.4,505.4v74c0,2.2-1.8,4-4,4h-80c-2.2,0-4-1.8-4-4v-70c0-2.2,1.8-4,4-4H248.4 M250.4,503.4h-86
+				c-3.3,0-6,2.7-6,6v70c0,3.3,2.7,6,6,6h80c3.3,0,6-2.7,6-6V503.4L250.4,503.4z"/>
+		</g>
+		<a id="ldgf102" xlink:href="#">
+        <g>
+			<path class="st1" d="M254.4,584.4c-2.8,0-5-2.2-5-5v-75h28v75c0,2.8-2.2,5-5,5H254.4z"/>
+			<path class="st2" d="M276.4,505.4v74c0,2.2-1.8,4-4,4h-18c-2.2,0-4-1.8-4-4v-74H276.4 M278.4,503.4h-30v76c0,3.3,2.7,6,6,6h18
+				c3.3,0,6-2.7,6-6V503.4L278.4,503.4z"/>
+		</g>
+        </a>
+        <a id="ldgf103" xlink:href="#">
+		<g>
+			<path class="st1" d="M282.4,584.4c-2.8,0-5-2.2-5-5v-75h28v75c0,2.8-2.2,5-5,5H282.4z"/>
+			<path class="st2" d="M304.4,505.4v74c0,2.2-1.8,4-4,4h-18c-2.2,0-4-1.8-4-4v-74H304.4 M306.4,503.4h-30v76c0,3.3,2.7,6,6,6h18
+				c3.3,0,6-2.7,6-6V503.4L306.4,503.4z"/>
+		</g>
+        </a>
+        <a id="ldgf104" xlink:href="#">
+		<g>
+			<path class="st1" d="M310.4,584.4c-2.8,0-5-2.2-5-5v-75h28v75c0,2.8-2.2,5-5,5H310.4z"/>
+			<path class="st2" d="M332.4,505.4v74c0,2.2-1.8,4-4,4h-18c-2.2,0-4-1.8-4-4v-74H332.4 M334.4,503.4h-30v76c0,3.3,2.7,6,6,6h18
+				c3.3,0,6-2.7,6-6V503.4L334.4,503.4z"/>
+		</g>
+        </a>
+        <a id="ldgf105" xlink:href="#">
+		<g>
+			<path class="st1" d="M338.4,584.4c-2.8,0-5-2.2-5-5v-75h28v75c0,2.8-2.2,5-5,5H338.4z"/>
+			<path class="st2" d="M360.4,505.4v74c0,2.2-1.8,4-4,4h-18c-2.2,0-4-1.8-4-4v-74H360.4 M362.4,503.4h-30v76c0,3.3,2.7,6,6,6h18
+				c3.3,0,6-2.7,6-6V503.4L362.4,503.4z"/>
+		</g>
+        </a>
+        <a id="ldgf106" xlink:href="#">
+		<g>
+			<path class="st1" d="M366.4,584.4c-2.8,0-5-2.2-5-5v-75h28v75c0,2.8-2.2,5-5,5H366.4z"/>
+			<path class="st2" d="M388.4,505.4v74c0,2.2-1.8,4-4,4h-18c-2.2,0-4-1.8-4-4v-74H388.4 M390.4,503.4h-30v76c0,3.3,2.7,6,6,6h18
+				c3.3,0,6-2.7,6-6V503.4L390.4,503.4z"/>
+		</g>
+        </a>
+        <a id="ldgf107" xlink:href="#">
+		<g>
+			<path class="st1" d="M394.4,584.4c-2.8,0-5-2.2-5-5v-75h28v75c0,2.8-2.2,5-5,5H394.4z"/>
+			<path class="st2" d="M416.4,505.4v74c0,2.2-1.8,4-4,4h-18c-2.2,0-4-1.8-4-4v-74H416.4 M418.4,503.4h-30v76c0,3.3,2.7,6,6,6h18
+				c3.3,0,6-2.7,6-6V503.4L418.4,503.4z"/>
+		</g>
+        </a>
+        <a id="ldgf108" xlink:href="#">
+		<g>
+			<path class="st1" d="M422.4,584.4c-2.8,0-5-2.2-5-5v-75h28v75c0,2.8-2.2,5-5,5H422.4z"/>
+			<path class="st2" d="M444.4,505.4v74c0,2.2-1.8,4-4,4h-18c-2.2,0-4-1.8-4-4v-74H444.4 M446.4,503.4h-30v76c0,3.3,2.7,6,6,6h18
+				c3.3,0,6-2.7,6-6V503.4L446.4,503.4z"/>
+		</g>
+        </a>
+        <a id="ldgf109" xlink:href="#">
+		<g>
+			<path class="st1" d="M450.4,584.4c-2.8,0-5-2.2-5-5v-75h28v75c0,2.8-2.2,5-5,5H450.4z"/>
+			<path class="st2" d="M472.4,505.4v74c0,2.2-1.8,4-4,4h-18c-2.2,0-4-1.8-4-4v-74H472.4 M474.4,503.4h-30v76c0,3.3,2.7,6,6,6h18
+				c3.3,0,6-2.7,6-6V503.4L474.4,503.4z"/>
+		</g>
+        </a>
+        <a id="ldgf111" xlink:href="#">
+		<g>
+			<path class="st1" d="M210,705.2c-2.8,0-5-2.2-5-5v-58h44v58c0,2.8-2.2,5-5,5H210z"/>
+			<path class="st2" d="M248,643.2v57c0,2.2-1.8,4-4,4h-34c-2.2,0-4-1.8-4-4v-57H248 M250,641.2h-46v59c0,3.3,2.7,6,6,6h34
+				c3.3,0,6-2.7,6-6V641.2L250,641.2z"/>
+		</g>
+        </a>
+        <a id="ldgf112" xlink:href="#">
+		<g>
+			<path class="st1" d="M254,705.2c-2.8,0-5-2.2-5-5v-58h44v58c0,2.8-2.2,5-5,5H254z"/>
+			<path class="st2" d="M292,643.2v57c0,2.2-1.8,4-4,4h-34c-2.2,0-4-1.8-4-4v-57H292 M294,641.2h-46v59c0,3.3,2.7,6,6,6h34
+				c3.3,0,6-2.7,6-6V641.2L294,641.2z"/>
+		</g>
+        </a>
+        <a id="ldgf113" xlink:href="#">
+		<g>
+			<path class="st1" d="M298,705.2c-2.8,0-5-2.2-5-5v-58h44v58c0,2.8-2.2,5-5,5H298z"/>
+			<path class="st2" d="M336,643.2v57c0,2.2-1.8,4-4,4h-34c-2.2,0-4-1.8-4-4v-57H336 M338,641.2h-46v59c0,3.3,2.7,6,6,6h34
+				c3.3,0,6-2.7,6-6V641.2L338,641.2z"/>
+		</g>
+        </a>
+		<path class="st17" d="M347.8,836.2c-2.8,0-5-2.2-5-5V687.5c0-2.8,2.2-5,5-5h128c2.8,0,5,2.2,5,5v143.7c0,2.8-2.2,5-5,5H347.8z"/>
+		<path class="st2" d="M475.8,683.5c2.2,0,4,1.8,4,4v143.2c0,2.2-1.8,4-4,4h-128c-2.2,0-4-1.8-4-4V687.5c0-2.2,1.8-4,4-4H475.8
+			 M475.8,681.5h-128c-3.3,0-6,2.7-6,6v143.2c0,3.3,2.7,6,6,6h128c3.3,0,6-2.7,6-6V687.5C481.8,684.2,479.1,681.5,475.8,681.5
+			L475.8,681.5z"/>
+        <a id="ldgf117" xlink:href="#">
+        <g>
+			<path class="st1" d="M512.8,691.8v-49.6h75.8c2.8,0,5,2.2,5,5v39.6c0,2.8-2.2,5-5,5H512.8z"/>
+			<path class="st2" d="M588.6,643.2c2.2,0,4,1.8,4,4v39.6c0,2.2-1.8,4-4,4h-74.8v-47.6H588.6 M588.6,641.2h-76.8v51.6h76.8
+				c3.3,0,6-2.7,6-6v-39.6C594.6,643.9,591.9,641.2,588.6,641.2L588.6,641.2z"/>
+		</g>
+        </a>
+        <a id="ldgf118" xlink:href="#">
+		<g>
+			<path class="st1" d="M512.8,814.3v-100h75.8c2.8,0,5,2.2,5,5v90c0,2.8-2.2,5-5,5H512.8z"/>
+			<path class="st2" d="M588.6,715.3c2.2,0,4,1.8,4,4v90c0,2.2-1.8,4-4,4h-74.8v-98H588.6 M588.6,713.3h-76.8v102h76.8
+				c3.3,0,6-2.7,6-6v-90C594.6,716,591.9,713.3,588.6,713.3L588.6,713.3z"/>
+		</g>
+        </a>
+	</g>
+    <g id="addStairs">
+		<g id="Exit_19_">
+			<g>
+				<path class="st1" d="M164,682.3c-2.8,0-5-2.2-5-5v-30c0-2.8,2.2-5,5-5h12c2.8,0,5,2.2,5,5v30c0,2.8-2.2,5-5,5H164z"/>
+				<path class="st2" d="M176,643.3c2.2,0,4,1.8,4,4v30c0,2.2-1.8,4-4,4h-12c-2.2,0-4-1.8-4-4v-30c0-2.2,1.8-4,4-4H176 M176,641.3
+					h-12c-3.3,0-6,2.7-6,6v30c0,3.3,2.7,6,6,6h12c3.3,0,6-2.7,6-6v-30C182,644,179.3,641.3,176,641.3L176,641.3z"/>
+                <image style="overflow:visible;enable-background;" width="40" height="76" class="i_stairs" id="stairs_x5F_off" xlink:href="./images/2x/stairs_off@2x.png"  transform="matrix(0.5 0 0 0.5 159.8 642.8)"></image>
+			</g>
+		</g>
+		<g id="Exit_18_">
+			<g>
+				<path class="st1" d="M517.6,575.7c-2.8,0-5-2.2-5-5v-30c0-2.8,2.2-5,5-5h12c2.8,0,5,2.2,5,5v30c0,2.8-2.2,5-5,5H517.6z"/>
+				<path class="st2" d="M529.6,536.7c2.2,0,4,1.8,4,4v30c0,2.2-1.8,4-4,4h-12c-2.2,0-4-1.8-4-4v-30c0-2.2,1.8-4,4-4H529.6M529.6,534.7h-12c-3.3,0-6,2.7-6,6v30c0,3.3,2.7,6,6,6h12c3.3,0,6-2.7,6-6v-30C535.6,537.4,532.9,534.7,529.6,534.7L529.6,534.7z"/>
+                <image style="overflow:visible;enable-background;" width="40" height="76" class="i_stairs" id="stairs_x5F_off" xlink:href="./images/2x/stairs_off@2x.png"  transform="matrix(0.5 0 0 0.5 513.7 536.4)"></image>
+			</g>
+		</g>
+		<g id="Exit_17_">
+			<g>
+				<path class="st1" d="M164.4,584.5c-2.8,0-5-2.2-5-5v-30c0-2.8,2.2-5,5-5h12c2.8,0,5,2.2,5,5v30c0,2.8-2.2,5-5,5H164.4z"/>
+				<path class="st2" d="M176.4,545.5c2.2,0,4,1.8,4,4v30c0,2.2-1.8,4-4,4h-12c-2.2,0-4-1.8-4-4v-30c0-2.2,1.8-4,4-4H176.4M176.4,543.5h-12c-3.3,0-6,2.7-6,6v30c0,3.3,2.7,6,6,6h12c3.3,0,6-2.7,6-6v-30C182.4,546.2,179.7,543.5,176.4,543.5L176.4,543.5z"/>
+                <image style="overflow:visible;enable-background;" width="40" height="76" class="i_stairs" id="stairs_x5F_off" xlink:href="./images/2x/stairs_off@2x.png"  transform="matrix(0.5 0 0 0.5 160.5 545.4)"></image>
+			</g>
+		</g>
+		<g id="Exit_15_">
+			<g>
+				<path class="st1" d="M220.8,805.5c-2.8,0-5-2.2-5-5v-30c0-2.8,2.2-5,5-5h12c2.8,0,5,2.2,5,5v30c0,2.8-2.2,5-5,5H220.8z"/>
+				<path class="st2" d="M232.8,766.5c2.2,0,4,1.8,4,4v30c0,2.2-1.8,4-4,4h-12c-2.2,0-4-1.8-4-4v-30c0-2.2,1.8-4,4-4H232.8M232.8,764.5h-12c-3.3,0-6,2.7-6,6v30c0,3.3,2.7,6,6,6h12c3.3,0,6-2.7,6-6v-30C238.8,767.2,236.1,764.5,232.8,764.5L232.8,764.5z"/>
+                <image style="overflow:visible;enable-background;" width="40" height="76" class="i_stairs" id="stairs_x5F_off" xlink:href="./images/2x/stairs_off@2x.png"  transform="matrix(0.5 0 0 0.5 216.7 766.5)"></image>
+			</g>
+		</g>
+	</g>
+    <g id="addelev">
+		<g id="Elevator_16_">
+			<g>
+				<g>
+					<path class="st1" d="M214.4,584.2c-2.8,0-5-2.2-5-5v-30c0-2.8,2.2-5,5-5h30c2.8,0,5,2.2,5,5v30c0,2.8-2.2,5-5,5H214.4z"/>
+					<path class="st2" d="M244.4,545.2c2.2,0,4,1.8,4,4v30c0,2.2-1.8,4-4,4h-30c-2.2,0-4-1.8-4-4v-30c0-2.2,1.8-4,4-4H244.4
+						 M244.4,543.2h-30c-3.3,0-6,2.7-6,6v30c0,3.3,2.7,6,6,6h30c3.3,0,6-2.7,6-6v-30C250.4,545.9,247.7,543.2,244.4,543.2
+						L244.4,543.2z"/>
+				</g>
+                <image style="overflow:visible;enable-background;" width="76" height="76" class="i_escal" id="escal_x5F_off" xlink:href="./images/2x/elevator_off@2x.png" transform="matrix(0.5 0 0 0.5 210.3 545.2)">
+                </image>
+			</g>
+		</g>
+		<g id="Elevator_15_">
+			<g>
+				<g>
+					<path class="st1" d="M164,722c-2.8,0-5-2.2-5-5v-30c0-2.8,2.2-5,5-5h30c2.8,0,5,2.2,5,5v30c0,2.8-2.2,5-5,5H164z"/>
+					<path class="st2" d="M194,683c2.2,0,4,1.8,4,4v30c0,2.2-1.8,4-4,4h-30c-2.2,0-4-1.8-4-4v-30c0-2.2,1.8-4,4-4H194 M194,681h-30c-3.3,0-6,2.7-6,6v30c0,3.3,2.7,6,6,6h30c3.3,0,6-2.7,6-6v-30C200,683.7,197.3,681,194,681L194,681z"/>
+				</g>
+                <image style="overflow:visible;enable-background;" width="76" height="76" class="i_escal" id="escal_x5F_off" xlink:href="./images/2x/elevator_off@2x.png" transform="matrix(0.5 0 0 0.5 160 683)">
+                </image>
+			</g>
+		</g>
+		<g id="Elevator_14_">
+			<g>
+				<g>
+					<path class="st1" d="M388,682.2c-2.8,0-5-2.2-5-5v-30c0-2.8,2.2-5,5-5h30c2.8,0,5,2.2,5,5v30c0,2.8-2.2,5-5,5H388z"/>
+					<path class="st2" d="M418,643.2c2.2,0,4,1.8,4,4v30c0,2.2-1.8,4-4,4h-30c-2.2,0-4-1.8-4-4v-30c0-2.2,1.8-4,4-4H418 M418,641.2 h-30c-3.3,0-6,2.7-6,6v30c0,3.3,2.7,6,6,6h30c3.3,0,6-2.7,6-6v-30C424,643.9,421.3,641.2,418,641.2L418,641.2z"/>
+				</g>
+                <image style="overflow:visible;enable-background;" width="76" height="76" class="i_escal" id="escal_x5F_off" xlink:href="./images/2x/elevator_off@2x.png" transform="matrix(0.5 0 0 0.5 384 643.2)">
+                </image>
+			</g>
+		</g>
+		<g id="Elevator_13_">
+			<g>
+				<g>
+					<path class="st1" d="M517.6,615.3c-2.8,0-5-2.2-5-5v-30c0-2.8,2.2-5,5-5h30c2.8,0,5,2.2,5,5v30c0,2.8-2.2,5-5,5H517.6z"/>
+					<path class="st2" d="M547.6,576.3c2.2,0,4,1.8,4,4v30c0,2.2-1.8,4-4,4h-30c-2.2,0-4-1.8-4-4v-30c0-2.2,1.8-4,4-4H547.6M547.6,574.3h-30c-3.3,0-6,2.7-6,6v30c0,3.3,2.7,6,6,6h30c3.3,0,6-2.7,6-6v-30C553.6,577,550.9,574.3,547.6,574.3L547.6,574.3z"/>
+				</g>
+                <image style="overflow:visible;enable-background;" width="76" height="76" class="i_escal" id="escal_x5F_off" xlink:href="./images/2x/elevator_off@2x.png" transform="matrix(0.5 0 0 0.5 513.6 576.3)">
+                </image>
+			</g>
+		</g>
+        <g id="Escal_14_">
+			<g>
+				<g>
+					<path class="st1" d="M348,682.2c-2.8,0-5-2.2-5-5v-30c0-2.8,2.2-5,5-5h30c2.8,0,5,2.2,5,5v30c0,2.8-2.2,5-5,5H348z"/>
+					<path class="st2" d="M378,643.2c2.2,0,4,1.8,4,4v30c0,2.2-1.8,4-4,4h-30c-2.2,0-4-1.8-4-4v-30c0-2.2,1.8-4,4-4H378 M378,641.2 h-30c-3.3,0-6,2.7-6,6v30c0,3.3,2.7,6,6,6h30c3.3,0,6-2.7,6-6v-30C384,643.9,381.3,641.2,378,641.2L378,641.2z"/>
+				</g>
+                <image style="overflow:visible;enable-background;" width="76" height="76" class="i_escal" id="escal_x5F_off" xlink:href="./images/2x/escal_off@2x.png" transform="matrix(0.5 0 0 0.5 344 643.2)">
+                </image>
+			</g>
+		</g>
+	</g>
+    <g id="addtoilet">
+		<a id="ldgf110" xlink:href="#" >
+			<g>
+				<g>
+					<path class="st1" d="M164.4,624.4c-2.8,0-5-2.2-5-5v-30c0-2.8,2.2-5,5-5h30c2.8,0,5,2.2,5,5v30c0,2.8-2.2,5-5,5H164.4z"/>
+					<path class="st2" d="M194.4,585.4c2.2,0,4,1.8,4,4v30c0,2.2-1.8,4-4,4h-30c-2.2,0-4-1.8-4-4v-30c0-2.2,1.8-4,4-4H194.4M194.4,583.4h-30c-3.3,0-6,2.7-6,6v30c0,3.3,2.7,6,6,6h30c3.3,0,6-2.7,6-6v-30C200.4,586.1,197.7,583.4,194.4,583.4L194.4,583.4z"/>
+				</g>
+                <image style="overflow:visible;enable-background;" width="76" height="76"  class="i_toilet" id="toilet_x5F_off_3" xlink:href="./images/2x/toilet_off@2x.png"  transform="matrix(0.5 0 0 0.5 160.4 585.4)">
+				</image>
+			</g>
+		</a>
+		<a id="ldgf101" xlink:href="#" >
+			<g>
+				<g>
+					<path class="st1" d="M164.4,544.4c-2.8,0-5-2.2-5-5v-30c0-2.8,2.2-5,5-5h30c2.8,0,5,2.2,5,5v30c0,2.8-2.2,5-5,5H164.4z"/>
+					<path class="st2" d="M194.4,505.4c2.2,0,4,1.8,4,4v30c0,2.2-1.8,4-4,4h-30c-2.2,0-4-1.8-4-4v-30c0-2.2,1.8-4,4-4H194.4M194.4,503.4h-30c-3.3,0-6,2.7-6,6v30c0,3.3,2.7,6,6,6h30c3.3,0,6-2.7,6-6v-30C200.4,506.1,197.7,503.4,194.4,503.4L194.4,503.4z"/>
+				</g>
+                <image style="overflow:visible;enable-background;" width="76" height="76"  class="i_toilet" id="toilet_x5F_off_3" xlink:href="./images/2x/toilet_off@2x.png"  transform="matrix(0.5 0 0 0.5 160.4 505.5)">
+				</image>
+			</g>
+		</a>
 	</g>
 	<g id="Rooms">
 		<a id="lobbyMaGf" xlink:href="#" class="svg_lobby_mark">
@@ -649,6 +869,44 @@
 			<text id="shinhwa1f" text-anchor="middle" transform="matrix(1 0 0 1 518 173)" class="st2 st11 st12"><tspan x="0" y="0">신화관</tspan><tspan x="0" y="14">(1F)</tspan></text>
 		</g>
 	</g>
+    <g id="infoname" class="spotname">
+        <text id="landing" text-anchor="middle" transform="matrix(1 0 0 1 148 494)" class="st2 st11 st12">랜딩관</text>
+        <text id="landing" text-anchor="middle" transform="matrix(1 0 0 1 492 494)" class="st2 st11 st12">랜딩관</text>
+        <path class="st2" d="M497,518.6v-20c0-0.6-0.4-1-1-1s-1,0.4-1,1v20l-6.4-2.8l7.4,17.6l7.4-17.6L497,518.6z"/>
+        <path class="st2" d="M149,518.6v-20c0-0.6-0.4-1-1-1s-1,0.4-1,1v20l-6.4-2.8l7.4,17.6l7.4-17.6L149,518.6z"/>
+    </g>
+    <g id="addSpotname" class="spotname">
+        <text id="ldgf117" text-anchor="middle" transform="matrix(1 0 0 1 553 670)" class="st2 st11 st12">플레이 타임</text>
+        <text id="ldgf118" text-anchor="middle" transform="matrix(1 0 0 1 553 768)" class="st2 st11 st12">랜딩 다이닝</text>
+        <g>
+            <text id="ldgf102" text-anchor="middle" transform="matrix(1 0 0 1 264 542)" class="st2 st11 st19">영실룸</text>
+        </g>
+        <g>
+            <text id="ldgf103" text-anchor="middle" transform="matrix(1 0 0 1 291 542)" class="st2 st11 st19">어리목룸</text>
+        </g>
+        <g>
+            <text id="ldgf104" text-anchor="middle" transform="matrix(1 0 0 1 319 542)" class="st2 st11 st19">백록룸</text>
+        </g>
+        <g>
+            <text id="ldgf105" text-anchor="middle" transform="matrix(1 0 0 1 347 542)" class="st2 st11 st19">영주룸</text>
+        </g>
+        <g>
+            <text id="ldgf106" text-anchor="middle" transform="matrix(1 0 0 1 375 542)" class="st2 st11 st19">올레룸</text>
+        </g>
+        <g>
+            <text id="ldgf107" text-anchor="middle" transform="matrix(1 0 0 1 404 542)" class="st2 st11 st19">우도룸</text>
+        </g>
+        <g>
+            <text id="ldgf108" text-anchor="middle" transform="matrix(1 0 0 1 431 542)" class="st2 st11 st19">성산룸</text>
+        </g>
+        <g>
+            <text id="ldgf109" text-anchor="middle" transform="matrix(1 0 0 1 459 542)" class="st2 st11 st19">안덕룸</text>
+        </g>
+        <text id="ldgf111" text-anchor="middle" transform="matrix(1 0 0 1 227 670)"><tspan x="0" y="0" class="st2 st11 st12">한라룸</tspan><tspan x="0" y="14" class="st2 st11 st12">A</tspan></text>
+        <text id="ldgf112" text-anchor="middle" transform="matrix(1 0 0 1 271 670)"><tspan x="0" y="0" class="st2 st11 st12">한라룸</tspan><tspan x="0" y="14" class="st2 st11 st12">B</tspan></text>
+        <text id="ldgf113" text-anchor="middle" transform="matrix(1 0 0 1 315 670)"><tspan x="0" y="0" class="st2 st11 st12">한라룸</tspan><tspan x="0" y="14" class="st2 st11 st12">C</tspan></text>
+        <text id="ldballom" text-anchor="middle" transform="matrix(1 0 0 1 414 756)" class="st2 st11 st12"><tspan x="0" y="0">랜딩 볼룸</tspan><tspan x="0" y="14">(LGF)</tspan></text>
+    </g>
 	<g id="Portals">
 		<line id="Wayout.1.floorGfZOM" class="st14" x1="34" y1="341" x2="41" y2="334"/>
 		<line id="Wayout.2.floorGfLd" class="st14" x1="141" y1="523" x2="148" y2="516"/>
