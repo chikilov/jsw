@@ -477,11 +477,6 @@
 				<path class="st1" d="M450.4,233.2h18c2.2,0,4-1.8,4-4v-74h-26v74C446.4,231.4,448.2,233.2,450.4,233.2z"/>
 			</g>
 		</a>
-        <a id="ldgf109a" xlink:href="#">
-			<g>
-				<path class="st1" d="M450.4,233.2h18c2.2,0,4-1.8,4-4v-74h-26v74C446.4,231.4,448.2,233.2,450.4,233.2z"/>
-			</g>
-		</a>
 		<a id="ldgf111" xlink:href="#">
 			<g>
 				<path class="st1" d="M210,354h34c2.2,0,4-1.8,4-4v-57h-42v57C206,352.2,207.8,354,210,354z"/>
@@ -550,12 +545,12 @@
 				</image>
 			</g>
 		</a>
-        <a id="shss115" xlink:href="#">
+        <a id="shss115a" xlink:href="#">
 			<g>
 				<path class="st1" d="M626.4,17.8C672.6,17,723,32.5,723,32.5l0,127.5c-115.3-0.8-196.4-5.8-209.5-6.6v-21.2 c0-2.2,1.8-4,4-4h9.9c4.4,0,8-3.6,8-8V92.7c0-2.2,1.8-4,4-4h49.3c4.4,0,8-3.6,8-8V70.5c0-4.4-3.6-8-8-8h-49.3c-2.2,0-4-1.8-4-4 V37.8c0-1.6,1-3.1,2.5-3.7c11-4.6,40.9-15.3,80.2-16.2C620.9,17.8,623.7,17.8,626.4,17.8"/>
 			</g>
 		</a>
-        <a id="shss116" xlink:href="#">
+        <a id="shss116a" xlink:href="#">
             <g>
                 <g>
                     <path class="st6" d="M561.6,127.9c-2.8,0-5-2.2-5-5v-30c0-2.8,2.2-5,5-5h30c2.8,0,5,2.2,5,5v30c0,2.8-2.2,5-5,5H561.6z"/>
@@ -565,31 +560,49 @@
                 </image>
             </g>
         </a>
-        <a id="shss122" xlink:href="#">
+        <a id="shss122a" xlink:href="#">
             <g>
                 <path class="st1" d="M723,32.5c0,0,7.5,2.1,11.3,3.1l2.8,0.8c31.7,8.8,72.5,15.9,99.3,17.2c3.4,0.2,6.1,3,6.1,6.4v22.4v14.4c0,2.2-1.8,4-4,4h-10.9c-1.1,0-2,0.9-2,2v16c0,1.1,0.9,2,2,2h10.9c2.2,0,4,1.8,4,4v34.4c-29.7,0.6-60.1,0.9-90.2,0.9c-10,0-29.3-0.1-29.3-0.1L723,32.5z"/>
             </g>
         </a>
-        <a id="shss112" xlink:href="#">
+        <a id="shss112a" xlink:href="#">
             <g>
                 <path class="st1" d="M929.5,51.3c0.6-0.1,15.7-1.7,24.5-8.6c8.3-6.5,25.1-10.2,38-11.1c0.2,0,0.3,0,0.5,0 c1.9,0,3.6,0.7,5,2c1.5,1.4,2.3,3.3,2.3,5.4v30.8h-68c-4.1,0-7.4-3.3-7.4-7.4v-11C926.1,51.4,927.8,51.3,929.5,51.3z"/>
             </g>
         </a>
-        <a id="magf121" xlink:href="#">
+        <a id="magf121a" xlink:href="#">
             <g>
                 <path class="st1" d="M950.8,71.8h49v36.4h-41.6c-4.1,0-7.4-3.3-7.4-7.4V71.8z"/>
             </g>
         </a>
-        <a id="magf118" xlink:href="#">
+        <a id="magf118a" xlink:href="#">
             <g>
                <path class="st1" d="M1099,118c2.2,0,4,1.8,4,4v30.1l-46,1.8V122c0-2.2,1.8-4,4-4H1099"/>
             </g>
         </a>
-        <a id="shss113" xlink:href="#">
+        <a id="shss113a" xlink:href="#">
             <g>
                 <path class="st1" d="M859,159V59.9c0-4.1,3.3-7.4,7.3-7.4c8.5-0.1,26.8-0.3,56.1-1v10.9c0,5.2,4.2,9.4,9.4,9.4h17v29 c0,5.2,4.2,9.4,9.4,9.4h41.6v45.6C942.4,157.9,868.5,158.9,859,159z"/>
             </g>
         </a>
+        <a id="magf122a" xlink:href="#">
+        <g>
+            <path class="st6" d="M965.8,156.9c-2.8,0-5-2.2-5-5v-30c0-2.8,2.2-5,5-5h30c2.8,0,5,2.2,5,5v30c0,2.8-2.2,5-5,5H965.8z"/>
+            <path class="st2" d="M995.8,117.9c2.2,0,4,1.8,4,4v30c0,2.2-1.8,4-4,4h-30c-2.2,0-4-1.8-4-4v-30c0-2.2,1.8-4,4-4H995.8         M995.8,115.9h-30c-3.3,0-6,2.7-6,6v30c0,3.3,2.7,6,6,6h30c3.3,0,6-2.7,6-6v-30C1001.8,118.6,999.1,115.9,995.8,115.9        L995.8,115.9z"/>
+        </g>
+        <image style="overflow: visible; pointer-events: auto;" width="76" height="76" class="i_hospi" id="hospi_x5F_off" xlink:href="./images/2x/hospi_off@2x.png" transform="matrix(0.5 0 0 0.5 962 117.7)">
+        </image>
+    </a>
+        <a id="shss114" xlink:href="#">
+        <g>
+            <g>
+                <path class="st6" d="M808.6,160c-2.8,0-5-2.2-5-5v-30c0-2.8,2.2-5,5-5h30c2.8,0,5,2.2,5,5v30c0,2.8-2.2,5-5,5H808.6z"/>
+                <path class="st2" d="M838.6,121c2.2,0,4,1.8,4,4v30c0,2.2-1.8,4-4,4h-30c-2.2,0-4-1.8-4-4v-30c0-2.2,1.8-4,4-4H838.6        M838.6,119h-30c-3.3,0-6,2.7-6,6v30c0,3.3,2.7,6,6,6h30c3.3,0,6-2.7,6-6v-30C844.6,121.7,841.9,119,838.6,119L838.6,119z"/>
+            </g>
+            <image style="overflow:visible;enable-background;" width="76" height="76"  class="i_toilet" id="toilet_x5F_off_3" xlink:href="./images/2x/toilet_off@2x.png"  transform="matrix(0.5 0 0 0.5 804.6 120.9)">
+            </image>
+        </g>
+    </a>
 	</g>
     <g id="Elevator_10">
         <g>
@@ -631,16 +644,6 @@
         </image>
         </g>
     </g>
-    <a id="shss114" xlink:href="#">
-        <g>
-            <g>
-                <path class="st6" d="M808.6,160c-2.8,0-5-2.2-5-5v-30c0-2.8,2.2-5,5-5h30c2.8,0,5,2.2,5,5v30c0,2.8-2.2,5-5,5H808.6z"/>
-                <path class="st2" d="M838.6,121c2.2,0,4,1.8,4,4v30c0,2.2-1.8,4-4,4h-30c-2.2,0-4-1.8-4-4v-30c0-2.2,1.8-4,4-4H838.6        M838.6,119h-30c-3.3,0-6,2.7-6,6v30c0,3.3,2.7,6,6,6h30c3.3,0,6-2.7,6-6v-30C844.6,121.7,841.9,119,838.6,119L838.6,119z"/>
-            </g>
-            <image style="overflow:visible;enable-background;" width="76" height="76"  class="i_toilet" id="toilet_x5F_off_3" xlink:href="./images/2x/toilet_off@2x.png"  transform="matrix(0.5 0 0 0.5 804.6 120.9)">
-            </image>
-        </g>
-    </a>
     <g id="Exit_10">
         <g>
             <path class="st6" d="M826.6,102.2c-2.8,0-5-2.2-5-5v-30c0-2.8,2.2-5,5-5h12c2.8,0,5,2.2,5,5v30c0,2.8-2.2,5-5,5H826.6z"/>
@@ -649,14 +652,6 @@
         <image style="overflow:visible;enable-background:new;" width="40" height="76" id="stairs_x5F_off_8_" xlink:href="./images/2x/stairs_off@2x.png" class="i_stairs"  transform="matrix(0.5 0 0 0.5 822.5 63)">
         </image>
     </g>
-    <a id="magf122" xlink:href="#">
-        <g>
-            <path class="st6" d="M965.8,156.9c-2.8,0-5-2.2-5-5v-30c0-2.8,2.2-5,5-5h30c2.8,0,5,2.2,5,5v30c0,2.8-2.2,5-5,5H965.8z"/>
-            <path class="st2" d="M995.8,117.9c2.2,0,4,1.8,4,4v30c0,2.2-1.8,4-4,4h-30c-2.2,0-4-1.8-4-4v-30c0-2.2,1.8-4,4-4H995.8         M995.8,115.9h-30c-3.3,0-6,2.7-6,6v30c0,3.3,2.7,6,6,6h30c3.3,0,6-2.7,6-6v-30C1001.8,118.6,999.1,115.9,995.8,115.9        L995.8,115.9z"/>
-        </g>
-        <image style="overflow: visible; pointer-events: auto;" width="76" height="76" class="i_hospi" id="hospi_x5F_off" xlink:href="./images/2x/hospi_off@2x.png" transform="matrix(0.5 0 0 0.5 962 117.7)">
-        </image>
-    </a>
     <line id="ma_x5F_line" class="st4" x1="723" y1="31.6" x2="723" y2="161.6"/>
 	<g>
 		<g id="Exit_19_">
@@ -758,12 +753,12 @@
             <text id="shss121" text-anchor="middle" transform="matrix(1 0 0 1 524 -10)" class="st2 st11 st12">다만 프레르</text>
             <text id="magf119" text-anchor="middle" transform="matrix(1 0 0 1 1034 -10)" class="st2 st11 st12">엠 라운지</text>
             <!--메리어트관 장소추가 시작-->
-            <text id="shss115" text-anchor="middle" transform="matrix(1 0 0 1 658 98)" class="st2 st11 st12">크랩통</text>
-            <text id="shss122" text-anchor="middle" transform="matrix(1 0 0 1 776 98)"><tspan x="0" y="0" class="st2 st11 st12">제주관광공사</tspan><tspan x="0" y="14" class="st2 st11 st12">신화월드 면세점</tspan></text>
-            <text id="shss113" text-anchor="middle" transform="matrix(1 0 0 1 904 98)"><tspan x="0" y="0" class="st2 st11 st12">제주관광공사</tspan><tspan x="0" y="14" class="st2 st11 st12">신화월드 면세점</tspan></text>
+            <text id="shss115a" text-anchor="middle" transform="matrix(1 0 0 1 658 98)" class="st2 st11 st12">크랩통</text>
+            <text id="shss122a" text-anchor="middle" transform="matrix(1 0 0 1 776 98)"><tspan x="0" y="0" class="st2 st11 st12">제주관광공사</tspan><tspan x="0" y="14" class="st2 st11 st12">신화월드 면세점</tspan></text>
+            <text id="shss113a" text-anchor="middle" transform="matrix(1 0 0 1 904 98)"><tspan x="0" y="0" class="st2 st11 st12">제주관광공사</tspan><tspan x="0" y="14" class="st2 st11 st12">신화월드 면세점</tspan></text>
             <text id="shss112" text-anchor="middle" transform="matrix(1 0 0 1 962 64)" class="st2 st11 st12">프랭크 뮬러</text>
-			<text id="magf121" text-anchor="middle" transform="matrix(1 0 0 1 976 87)"><tspan x="0" y="0" class="st2 st11 st12">디자인</tspan><tspan x="0" y="14" class="st2 st11 st12">오키즘</tspan></text>
-            <text id="magf118" text-anchor="middle" transform="matrix(1 0 0 1 1080 140)" class="st2 st11 st12">베레종</text>
+			<text id="magf121a" text-anchor="middle" transform="matrix(1 0 0 1 976 87)"><tspan x="0" y="0" class="st2 st11 st12">디자인</tspan><tspan x="0" y="14" class="st2 st11 st12">오키즘</tspan></text>
+            <text id="magf118a" text-anchor="middle" transform="matrix(1 0 0 1 1080 140)" class="st2 st11 st12">베레종</text>
             <!--메리어트관 장소추가 끝-->
             <text id="shspstreet" text-anchor="middle" transform="matrix(6.12e-17 1 -1 6.12e-17 500 196)" class="st2 st11 st12">신화쇼핑스트리트</text>
             <text id="shspstreet" text-anchor="middle" transform="matrix(-1.8e-16 -1 1 -1.8e-16 144 196)" class="st2 st11 st12">신화쇼핑스트리트</text>
@@ -809,7 +804,6 @@
 		<line id="ldgf107" class="st15" x1="404" y1="227" x2="411" y2="220"/>
 		<line id="ldgf108" class="st15" x1="432" y1="227" x2="439" y2="220"/>
 		<line id="ldgf109" class="st15" x1="459" y1="227" x2="466" y2="220"/>
-        <line id="ldgf109a" class="st15" x1="457" y1="227" x2="464" y2="220"/>
 		<line id="ldgf110" class="st15" x1="166" y1="255" x2="173" y2="248"/>
 		<line id="ldgf111" class="st15" x1="220" y1="308" x2="227" y2="301"/>
 		<line id="ldgf112" class="st15" x1="264" y1="308" x2="271" y2="301"/>
@@ -822,6 +816,17 @@
 		<line id="ldgf118" class="st15" x1="519" y1="436" x2="526" y2="429"/>
 		<line id="ldgf119" class="st15" x1="519" y1="508" x2="526" y2="501"/>
 		<line id="ldgf120" class="st15" x1="542" y1="599" x2="549" y2="592"/>
+        <!--add Doors Start-->
+        <line id="magf118a" class="st15" x1="1073" y1="132" x2="1080" y2="125"/>
+        <line id="magf122a" class="st15" x1="988" y1="143" x2="995" y2="136"/>
+        <line id="magf121a" class="st15" x1="986" y1="96" x2="993" y2="89"/>
+        <line id="shss112a" class="st15" x1="986" y1="59" x2="993" y2="52"/>
+        <line id="shss113a" class="st15" x1="886" y1="68" x2="893" y2="61"/>
+        <line id="shss114a" class="st15" x1="831" y1="148" x2="838" y2="141"/>
+        <line id="shss122a" class="st15" x1="771" y1="62" x2="778" y2="55"/>
+        <line id="shss115a" class="st15" x1="654" y1="36" x2="661" y2="29"/>
+        <line id="shss116a" class="st15" x1="569" y1="101" x2="576" y2="94"/>
+        <!--add Doors End-->
 	</g>
 	<g id="Paths">
 		<line class="st16" x1="496" y1="245" x2="496" y2="145"/>
@@ -872,7 +877,6 @@
 		<line class="st16" x1="404" y1="245" x2="404" y2="227"/>
 		<line class="st16" x1="432" y1="245" x2="432" y2="227"/>
 		<line class="st16" x1="459" y1="245" x2="459" y2="227"/>
-        <line class="st16" x1="457" y1="245" x2="457" y2="227"/>
 		<line class="st16" x1="148" y1="281" x2="227" y2="281"/>
 		<line class="st16" x1="227" y1="281" x2="271" y2="281"/>
 		<line class="st16" x1="271" y1="281" x2="315" y2="281"/>
@@ -885,8 +889,7 @@
 		<line class="st16" x1="347" y1="245" x2="375" y2="245"/>
 		<line class="st16" x1="375" y1="245" x2="404" y2="245"/>
 		<line class="st16" x1="404" y1="245" x2="432" y2="245"/>
-		<line class="st16" x1="432" y1="245" x2="457" y2="245"/>
-        <line class="st16" x1="457" y1="245" x2="459" y2="245"/>
+		<line class="st16" x1="432" y1="245" x2="459" y2="245"/>
 		<line class="st16" x1="496" y1="245" x2="519" y2="245"/>
 		<line class="st16" x1="496" y1="338" x2="519" y2="338"/>
 		<line class="st16" x1="496" y1="436" x2="519" y2="436"/>
@@ -897,6 +900,37 @@
 		<line class="st16" x1="459" y1="245" x2="496" y2="245"/>
 		<line class="st16" x1="403" y1="281" x2="496" y2="281"/>
 		<line class="st16" x1="169" y1="482" x2="208" y2="453"/>
+        <!--add Paths Start-->
+        <line class="st16" x1="993" y1="52" x2="1011" y2="52"/>
+        <line class="st16" x1="993" y1="89" x2="1011" y2="89"/>
+        <line class="st16" x1="995" y1="136" x2="1011" y2="136"/>
+        <line class="st16" x1="893" y1="42" x2="893" y2="61"/>
+        <line class="st16" x1="851" y1="141" x2="838" y2="141"/>
+        <line class="st16" x1="778" y1="36" x2="778" y2="55"/>
+        <line class="st16" x1="661" y1="10" x2="661" y2="29"/>
+        <line class="st16" x1="576" y1="78" x2="576" y2="94"/>
+        <line class="st16" x1="1080" y1="23" x2="1080" y2="125"/>
+        <line class="st16" x1="1011" y1="23" x2="1080" y2="23"/>
+        <line class="st16" x1="1011" y1="52" x2="1011" y2="89"/>
+        <line class="st16" x1="1011" y1="23" x2="1011" y2="52"/>
+        <line class="st16" x1="1011" y1="89" x2="1011" y2="136"/>
+        <line class="st16" x1="893" y1="42" x2="933" y2="38"/>
+        <line class="st16" x1="851" y1="44" x2="893" y2="42"/>
+        <line class="st16" x1="810" y1="42" x2="851" y2="44"/>
+        <line class="st16" x1="778" y1="36" x2="810" y2="42"/>
+        <line class="st16" x1="713" y1="18" x2="778" y2="36"/>
+        <line class="st16" x1="661" y1="10" x2="713" y2="18"/>
+        <line class="st16" x1="570" y1="10" x2="642" y2="10"/>
+        <line class="st16" x1="642" y1="10" x2="661" y2="10"/>
+        <line class="st16" x1="509" y1="33" x2="570" y2="10"/>
+        <line class="st16" x1="509" y1="78" x2="509" y2="33"/>
+        <line class="st16" x1="496" y1="145" x2="496" y2="78"/>
+        <line class="st16" x1="576" y1="78" x2="509" y2="78"/>
+        <line class="st16" x1="509" y1="78" x2="496" y2="78"/>
+        <line class="st16" x1="851" y1="141" x2="851" y2="44"/>
+        <line class="st16" x1="933" y1="38" x2="974" y2="23"/>
+        <line class="st16" x1="974" y1="23" x2="1011" y2="23"/>
+        <!--add Path End-->
 	</g>
 </g>
 </svg>
