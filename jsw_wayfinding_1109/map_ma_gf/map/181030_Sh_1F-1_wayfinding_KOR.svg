@@ -25,6 +25,7 @@
 	#shf100 .st19{fill:#C9CDD1;}
 	#shf100 .st20{font-size:17px;}
     #shf100 .st22{fill:none;stroke:#A5855B;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+    #shf100 .st23{font-size:10px;}
 </style>
 <g id="BG">
 	<rect class="st0" width="1400" height="730"/>
@@ -203,11 +204,6 @@
 				<path class="st3" d="M546.3,265.3h49.5v-1.2h-50.2C545.9,264.5,546.1,264.9,546.3,265.3z"/>
 			</g>
 			<g>
-				<path class="st6" d="M594.9,575.2v-41.6h95c2.8,0,5,2.2,5,5v31.6c0,2.8-2.2,5-5,5H594.9z"/>
-				<path class="st3" d="M689.9,534.6c2.2,0,4,1.8,4,4v31.6c0,2.2-1.8,4-4,4h-94v-39.6H689.9 M689.9,532.6h-96v43.6h96
-					c3.3,0,6-2.7,6-6v-31.6C695.9,535.3,693.2,532.6,689.9,532.6L689.9,532.6z"/>
-			</g>
-			<g>
 				<path class="st6" d="M594.9,481.6v-76h95c2.8,0,5,2.2,5,5v66c0,2.8-2.2,5-5,5H594.9z"/>
 				<path class="st3" d="M689.9,406.6c2.2,0,4,1.8,4,4v66c0,2.2-1.8,4-4,4h-94v-74H689.9 M689.9,404.6h-96v78h96c3.3,0,6-2.7,6-6
 					v-66C695.9,407.3,693.2,404.6,689.9,404.6L689.9,404.6z"/>
@@ -327,6 +323,13 @@
 					v-20C591,511.3,588.3,508.6,585,508.6L585,508.6z"/>
 			</g>
 		</a>
+        <a id="lockerfemale" xlink:href="#" >
+            <g>
+				<path class="st6" d="M594.9,575.2v-41.6h95c2.8,0,5,2.2,5,5v31.6c0,2.8-2.2,5-5,5H594.9z"/>
+				<path class="st3" d="M689.9,534.6c2.2,0,4,1.8,4,4v31.6c0,2.2-1.8,4-4,4h-94v-39.6H689.9 M689.9,532.6h-96v43.6h96
+					c3.3,0,6-2.7,6-6v-31.6C695.9,535.3,693.2,532.6,689.9,532.6L689.9,532.6z"/>
+			</g>
+        </a>
 		<a id="sh1f105" xlink:href="#" >
 			<g>
 				<path class="st6" d="M594.9,575.2v-41.6h41c2.8,0,5,2.2,5,5v31.6c0,2.8-2.2,5-5,5H594.9z"/>
@@ -334,7 +337,21 @@
 					c3.3,0,6-2.7,6-6v-31.6C641.9,535.3,639.2,532.6,635.9,532.6L635.9,532.6z"/>
 			</g>
 		</a>
-		<a id="sh1f104" xlink:href="#" >
+        <a id="skyrecep" xlink:href="#" >
+			<g>
+				<path class="st6" d="M667.9,481.6v-41.2h41c2.8,0,5,2.2,5,5v31.3c0,2.8-2.2,5-5,5H667.9z"/>
+				<path class="st3" d="M708.9,441.4c2.2,0,4,1.8,4,4v31.3c0,2.2-1.8,4-4,4h-40v-39.2H708.9 M708.9,439.4h-42v43.2h42
+					c3.3,0,6-2.7,6-5.9v-31.3C714.9,442.1,712.2,439.4,708.9,439.4L708.9,439.4z"/>
+			</g>
+		</a>
+        <a id="lockermale" xlink:href="#" >
+			<g>
+				<path class="st6" d="M637.4,481.6v-41.2h41c2.8,0,5,2.2,5,5v36.2H637.4z"/>
+				<path class="st3" d="M678.4,441.4c2.2,0,4,1.8,4,4v35.2h-44v-39.2H678.4 M678.4,439.4h-42v43.2h48v-37.2
+					C684.4,442.1,681.7,439.4,678.4,439.4L678.4,439.4z"/>
+			</g>
+		</a>
+		<a id="sh1f104">
 			<g>
 				<path class="st6" d="M594.9,481.6v-41.2h41c2.8,0,5,2.2,5,5v36.2H594.9z"/>
 				<path class="st3" d="M635.9,441.4c2.2,0,4,1.8,4,4v35.2h-44v-39.2H635.9 M635.9,439.4h-42v43.2h48v-37.2
@@ -377,31 +394,52 @@
 				<path class="st6" d="M166.7,669.1l0,39.9h69.2v-49.2c-26.2,1.8-50.6,2.3-62.3,2.3C169.5,661.9,166.7,665.7,166.7,669.1z"/>
 			</g>
 		</a>
+        <a id="shconcierge" xlink:href="#" >
+			<g>
+				<path class="st6" d="M736.9,284v43.2h-41c-2.8,0-5-2.2-5-5v-33.3c0-2.8,2.2-5,5-5H736.9z"/>
+				<path class="st3" d="M695.9,326.2c-2.2,0-4-1.8-4-4v-33.3c0-2.2,1.8-4,4-4h40v41.2H695.9 M695.9,328.2h42V283h-42
+					c-3.3,0-6,2.7-6,5.9v33.3C689.9,325.5,692.6,328.2,695.9,328.2L695.9,328.2z"/>
+			</g>
+		</a>
+        <a id="bcenter" xlink:href="#" >
+			<g>
+				<path class="st6" d="M736.9,117v63.2h-41c-2.8,0-5-2.2-5-5v-53.3c0-2.8,2.2-5,5-5H736.9z"/>
+				<path class="st3" d="M695.9,179.2c-2.2,0-4-1.8-4-4v-53.3c0-2.2,1.8-4,4-4h40v61.2H695.9 M695.9,181.2h42V116h-42
+					c-3.3,0-6,2.7-6,5.9v53.3C689.9,178.5,692.6,181.2,695.9,181.2L695.9,181.2z"/>
+			</g>
+		</a>
+		<a id="playstation" xlink:href="#" >
+			<g>
+				<path class="st6" d="M938.8,135.2h-73.2v-41c0-2.8,2.2-5,5-5h63.3c2.8,0,5,2.2,5,5V135.2z"/>
+				<path class="st3" d="M866.6,94.2c0-2.2,1.8-4,4-4h63.3c2.2,0,4,1.8,4,4v40h-71.2V94.2 M864.6,94.2v42h75.2v-42
+					c0-3.3-2.7-6-5.9-6h-63.3C867.3,88.2,864.6,90.9,864.6,94.2L864.6,94.2z"/>
+			</g>
+		</a>
 		<a id="lobbysh1f" xlink:href="#" class="svg_lobby_mark">
 			<g>
 				<g>
-					
-						<linearGradient id="SVGID_sh1" gradientUnits="userSpaceOnUse" x1="2095.8655" y1="307" x2="2117.8655" y2="307" gradientTransform="matrix(-1 0 0 1 2829.8655 0)">
+					<linearGradient id="SVGID_sh1" gradientUnits="userSpaceOnUse" x1="1577.8655" y1="376" x2="1599.8655" y2="376" gradientTransform="matrix(-1 0 0 -1 2311.8655 732)">
 						<stop  offset="0.1" style="stop-color:#EF405C;stop-opacity:0"/>
 						<stop  offset="0.8" style="stop-color:#EF405C"/>
 					</linearGradient>
-					<polygon class="st12" points="734,292 712,307 734,322 					"/>
-					<linearGradient id="SVGID_sh2" gradientUnits="userSpaceOnUse" x1="734" y1="307" x2="712" y2="307">
+					<polygon class="st12" points="734,341 712,356 734,371 					"/>
+					
+						<linearGradient id="SVGID_sh2" gradientUnits="userSpaceOnUse" x1="734" y1="376" x2="712" y2="376" gradientTransform="matrix(1 0 0 -1 0 732)">
 						<stop  offset="0.1" style="stop-color:#EF405C;stop-opacity:0"/>
 						<stop  offset="0.8" style="stop-color:#B30521"/>
 					</linearGradient>
-					<path class="st13" d="M733,293.9v26.2L713.8,307L733,293.9 M734,292l-22,15l22,15V292L734,292z"/>
+					<path class="st13" d="M733,342.9v26.2L713.8,356L733,342.9 M734,341l-22,15l22,15V341L734,341z"/>
 				</g>
 				<g>
-					<path class="st14" d="M713.1,308.5c-0.1,0-0.3,0-0.4-0.2l-8.1-13.3c-0.7-1.3-1-2.7-1-4.2c0-2.5,1-4.9,2.8-6.6s4.2-2.7,6.7-2.7
-						h0.1c5.1,0.1,9.3,4.2,9.4,9.2c0,1.5-0.3,2.9-1,4.3l-8.1,13.3C713.4,308.5,713.2,308.5,713.1,308.5z M713,287c-2.2,0-4,1.8-4,4
-						s1.8,4,4,4s4-1.8,4-4S715.2,287,713,287z"/>
-					<path class="st15" d="M713.1,282L713.1,282c5,0.1,8.9,4,9,8.7c0,1.4-0.3,2.8-1,4l-8,13.2l-8-13.2c-0.6-1.2-1-2.6-1-3.9
-						c0-2.4,0.9-4.6,2.7-6.3C708.5,282.9,710.7,282,713.1,282 M713,295.5c2.5,0,4.5-2,4.5-4.5s-2-4.5-4.5-4.5s-4.5,2-4.5,4.5
-						S710.5,295.5,713,295.5 M713.1,281c-2.6,0-5.1,1-7,2.8c-1.9,1.9-3,4.3-3,7c0,1.6,0.4,3.1,1.1,4.4l8.1,13.3
-						c0.2,0.4,0.6,0.5,0.8,0.5s0.6,0,0.8-0.5l8.1-13.3c0.7-1.4,1.1-2.9,1.1-4.5C723.1,285.4,718.6,281,713.1,281
-						C713.2,281,713.1,281,713.1,281L713.1,281z M713,294.5c-1.9,0-3.5-1.6-3.5-3.5s1.6-3.5,3.5-3.5s3.5,1.6,3.5,3.5
-						S714.9,294.5,713,294.5L713,294.5z"/>
+					<path class="st14" d="M713.1,357.5c-0.1,0-0.3,0-0.4-0.2l-8.1-13.3c-0.7-1.3-1-2.7-1-4.2c0-2.5,1-4.9,2.8-6.6s4.2-2.7,6.7-2.7
+						h0.1c5.1,0.1,9.3,4.2,9.4,9.2c0,1.5-0.3,2.9-1,4.3l-8.1,13.3C713.4,357.5,713.2,357.5,713.1,357.5z M713,336c-2.2,0-4,1.8-4,4
+						s1.8,4,4,4s4-1.8,4-4S715.2,336,713,336z"/>
+					<path class="st15" d="M713.1,331L713.1,331c5,0.1,8.9,4,9,8.7c0,1.4-0.3,2.8-1,4l-8,13.2l-8-13.2c-0.6-1.2-1-2.6-1-3.9
+						c0-2.4,0.9-4.6,2.7-6.3C708.5,331.9,710.7,331,713.1,331 M713,344.5c2.5,0,4.5-2,4.5-4.5s-2-4.5-4.5-4.5s-4.5,2-4.5,4.5
+						S710.5,344.5,713,344.5 M713.1,330c-2.6,0-5.1,1-7,2.8c-1.9,1.9-3,4.3-3,7c0,1.6,0.4,3.1,1.1,4.4l8.1,13.3
+						c0.2,0.4,0.6,0.5,0.8,0.5s0.6,0,0.8-0.5l8.1-13.3c0.7-1.4,1.1-2.9,1.1-4.5C723.1,334.4,718.6,330,713.1,330
+						C713.2,330,713.1,330,713.1,330L713.1,330z M713,343.5c-1.9,0-3.5-1.6-3.5-3.5s1.6-3.5,3.5-3.5s3.5,1.6,3.5,3.5
+						S714.9,343.5,713,343.5L713,343.5z"/>
 				</g>
 			</g>
 		</a>
@@ -415,7 +453,13 @@
 		<text id="sh1f106" text-anchor="middle" transform="matrix(1 0 0 1 547 526)" class="st3 st4 st5">서비스 데스크</text>
 		<text id="shinhwa" text-anchor="middle" transform="matrix(1 0 0 1 1050 83)" class="st3 st4 st20">신화관</text>
 		<text id="sh1f105" text-anchor="middle" transform="matrix(1 0 0 1 618 552)"><tspan x="0" y="0" class="st3 st4 st5">피트니스</tspan><tspan x="0" y="14" class="st3 st4 st5">코너</tspan></text>
-		<text id="sh1f104" text-anchor="middle" transform="matrix(1 0 0 1 618 464)" class="st3 st4 st5">요가룸</text>
+        <text id="lockerfemale" text-anchor="middle" transform="matrix(1 0 0 1 668 552)" class="st3 st4 st5"><tspan x="0" y="0">라커룸</tspan><tspan x="0" y="14">(여)</tspan></text>
+        <text id="lockermale" text-anchor="middle" transform="matrix(1 0 0 1 662 458)" class="st3 st4 st5"><tspan x="0" y="0">라커룸</tspan><tspan x="0" y="14">(남)</tspan></text>
+        <text id="shconcierge" text-anchor="middle" transform="matrix(1 0 0 1 714 304)" class="st3 st4 st23"><tspan x="0" y="0">컨시어지</tspan><tspan x="0" y="12">데스크</tspan></text>
+        <text id="bcenter" text-anchor="middle" transform="matrix(1 0 0 1 714 148)" class="st3 st4 st23"><tspan x="0" y="0">비지니스</tspan><tspan x="0" y="12">센터</tspan></text>
+        <text id="bcenter" text-anchor="middle" transform="matrix(1 0 0 1 902 110)" class="st3 st4 st5"><tspan x="0" y="0">플레이</tspan><tspan x="0" y="14">스테이션</tspan></text>
+        <text id="#" text-anchor="middle" transform="matrix(6e-17 1 -1 6e-17 701 462)" class="st3 st4 st23"><tspan x="0" y="0">스카이풀</tspan><tspan x="0" y="12">리셉션</tspan></text>
+		<!--<text id="sh1f104" text-anchor="middle" transform="matrix(1 0 0 1 618 464)" class="st3 st4 st5">요가룸</text>-->
 		<text id="sh1f103" text-anchor="middle" transform="matrix(1 0 0 1 646 392)" class="st3 st4 st5">프론트 데스크</text>
 		<text id="shlounge" text-anchor="middle" transform="matrix(1 0 0 1 616 304)"><tspan x="0" y="0" class="st3 st4 st5">신화</tspan><tspan x="0" y="14" class="st3 st4 st5">라운지</tspan></text>
 		<text id="sh1f101" text-anchor="middle" transform="matrix(1 0 0 1 588 116)"><tspan x="0" y="0" class="st3 st4 st5">신화 다이닝</tspan><tspan x="0" y="14" class="st3 st4 st5">&amp; 라운지</tspan></text>
@@ -438,9 +482,9 @@
 	</g>
 	<g id="Doors">
 		<line id="sh1f101" class="st17" x1="635" y1="251" x2="642" y2="244"/>
-		<line id="lobbysh1f" class="st17" x1="713" y1="306" x2="720" y2="299"/>
+		<line id="lobbysh1f" class="st17" x1="713" y1="357" x2="720" y2="350"/>
 		<line id="sh1f103" class="st17" x1="638" y1="387" x2="645" y2="380"/>
-		<line id="sh1f104" class="st17" x1="618" y1="471" x2="625" y2="464"/>
+		<!--<line id="sh1f104" class="st17" x1="618" y1="471" x2="625" y2="464"/>-->
 		<line id="sh1f105" class="st17" x1="611" y1="547" x2="618" y2="540"/>
 		<line id="sh1f106" class="st17" x1="540" y1="521" x2="547" y2="514"/>
 		<line id="sh1f107" class="st17" x1="461" y1="345" x2="468" y2="338"/>
@@ -450,16 +494,22 @@
 		<line id="sh1f110" class="st17" x1="316" y1="688" x2="323" y2="681"/>
 		<line id="sh1f111" class="st17" x1="256" y1="675" x2="263" y2="668"/>
 		<line id="sh1f112" class="st17" x1="197" y1="679" x2="204" y2="672"/>
+        <line id="lockerfemale" class="st17" x1="657" y1="547" x2="664" y2="540"/>
+		<line id="lockermale" class="st17" x1="664" y1="474" x2="671" y2="467"/>
+		<line id="shconcierge" class="st17" x1="699" y1="306" x2="706" y2="299"/>
+		<line id="bcenter" class="st17" x1="699" y1="150" x2="706" y2="143"/>
+		<line id="playstation" class="st17" x1="896" y1="105" x2="903" y2="98"/>
+        <line id="skyrecep" class="st17" x1="703" y1="469" x2="710" y2="462"/>
 	</g>
 	<g id="Paths">
-		<line class="st18" x1="687" y1="306" x2="713" y2="306"/>
-		<line class="st18" x1="687" y1="273" x2="687" y2="306"/>
-		<line class="st18" x1="687" y1="76" x2="687" y2="273"/>
-		<line class="st18" x1="959" y1="76" x2="687" y2="76"/>
+		<line class="st18" x1="672" y1="306" x2="699" y2="306"/>
+		<line class="st18" x1="672" y1="273" x2="672" y2="306"/>
+		<line class="st18" x1="672" y1="150" x2="672" y2="273"/>
+		<line class="st18" x1="903" y1="76" x2="672" y2="76"/>
 		<line class="st18" x1="959" y1="10" x2="959" y2="76"/>
-		<line class="st18" x1="687" y1="306" x2="687" y2="357"/>
-		<line class="st18" x1="687" y1="357" x2="716" y2="357"/>
-		<line class="st18" x1="618" y1="502" x2="716" y2="502"/>
+		<line class="st18" x1="672" y1="306" x2="672" y2="357"/>
+		<line class="st18" x1="672" y1="357" x2="713" y2="357"/>
+		<line class="st18" x1="618" y1="502" x2="664" y2="502"/>
 		<line class="st18" x1="547" y1="502" x2="618" y2="502"/>
 		<line class="st18" x1="474" y1="502" x2="547" y2="502"/>
 		<line class="st18" x1="443" y1="502" x2="474" y2="502"/>
@@ -473,12 +523,12 @@
 		<line class="st18" x1="443" y1="602" x2="443" y2="502"/>
 		<line class="st18" x1="443" y1="502" x2="443" y2="395"/>
 		<line class="st18" x1="425" y1="621" x2="443" y2="602"/>
-		<line class="st18" x1="716" y1="357" x2="716" y2="502"/>
-		<line class="st18" x1="645" y1="357" x2="687" y2="357"/>
-		<line class="st18" x1="635" y1="273" x2="687" y2="273"/>
+		<line class="st18" x1="725" y1="373" x2="725" y2="462"/>
+		<line class="st18" x1="645" y1="357" x2="672" y2="357"/>
+		<line class="st18" x1="635" y1="273" x2="672" y2="273"/>
 		<line class="st18" x1="635" y1="273" x2="635" y2="251"/>
 		<line class="st18" x1="645" y1="380" x2="645" y2="357"/>
-		<line class="st18" x1="618" y1="502" x2="618" y2="471"/>
+		<line class="st18" x1="664" y1="502" x2="664" y2="474"/>
 		<line class="st18" x1="618" y1="540" x2="618" y2="502"/>
 		<line class="st18" x1="547" y1="514" x2="547" y2="502"/>
 		<line class="st18" x1="474" y1="502" x2="474" y2="475"/>
@@ -491,11 +541,20 @@
 		<line class="st18" x1="323" y1="659" x2="323" y2="681"/>
 		<line class="st18" x1="263" y1="645" x2="263" y2="668"/>
 		<line class="st18" x1="204" y1="650" x2="204" y2="672"/>
-		<line class="st18" x1="716" y1="502" x2="716" y2="603"/>
-		<line class="st18" x1="716" y1="603" x2="664" y2="603"/>
+		<line class="st18" x1="725" y1="502" x2="725" y2="603"/>
+		<line class="st18" x1="725" y1="603" x2="664" y2="603"/>
 		<line class="st18" x1="664" y1="603" x2="664" y2="603"/>
 		<line class="st18" x1="664" y1="603" x2="664" y2="709"/>
 		<line class="st18" x1="664" y1="709" x2="638" y2="709"/>
+		<line class="st18" x1="672" y1="150" x2="699" y2="150"/>
+		<line class="st18" x1="672" y1="76" x2="672" y2="150"/>
+		<line class="st18" x1="713" y1="357" x2="725" y2="373"/>
+		<line class="st18" x1="664" y1="502" x2="725" y2="502"/>
+		<line class="st18" x1="664" y1="540" x2="664" y2="502"/>
+		<line class="st18" x1="959" y1="76" x2="903" y2="76"/>
+		<line class="st18" x1="903" y1="98" x2="903" y2="76"/>
+		<line class="st18" x1="725" y1="462" x2="710" y2="462"/>
+		<line class="st18" x1="725" y1="462" x2="725" y2="502"/>
 	</g>
 </g>
 </svg>
