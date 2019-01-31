@@ -747,10 +747,10 @@
 			<text id="ldlgf103" text-anchor="middle" transform="matrix(1 0 0 1 414 407)"><tspan x="0" y="0" class="st2 st11 st12">랜딩 볼룸 B</tspan><tspan x="0" y="14" class="st2 st11 st12">(LGF)</tspan></text>
 			<text id="ldlgf104" text-anchor="middle" transform="matrix(1 0 0 1 414 459)"><tspan x="0" y="0" class="st2 st11 st12">랜딩 볼룸 C</tspan><tspan x="0" y="14" class="st2 st11 st12">(LGF)</tspan></text> //-->
             <text id="shss117" text-anchor="middle" transform="matrix(1 0 0 1 364 -8)" class="st2 st11 st12">스무디킹</text>
-            <text id="magf119" text-anchor="middle" transform="matrix(1 0 0 1 450 -10)" class="st2 st11 st12">앤티앤스</text>
+            <text id="shss118" text-anchor="middle" transform="matrix(1 0 0 1 450 -10)" class="st2 st11 st12">앤티앤스</text>
             <text id="shss119" text-anchor="middle" transform="matrix(1 0 0 1 374 10)" class="st2 st11 st12">왔다 스트리트 푸드</text>
             <text id="shss120" text-anchor="middle" transform="matrix(1 0 0 1 460 20)" class="st2 st11 st12">아주약국</text>
-            <text id="shss121" text-anchor="middle" transform="matrix(1 0 0 1 524 -10)" class="st2 st11 st12">다만 프레르</text>
+            <text id="shss121" text-anchor="middle" transform="matrix(1 0 0 1 524 2)" class="st2 st11 st12">다만 프레르</text>
             <text id="magf119" text-anchor="middle" transform="matrix(1 0 0 1 1034 -10)" class="st2 st11 st12">엠 라운지</text>
             <!--메리어트관 장소추가 시작-->
             <text id="shss115a" text-anchor="middle" transform="matrix(1 0 0 1 658 98)" class="st2 st11 st12">크랩통</text>
